@@ -1,0 +1,1117 @@
+I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
+{ ISubsystem 
+	- _id = GUID cf4e5791-17f7-4f3a-aea9-10c877756e55;
+	- _myState = 8192;
+	- _name = "Default";
+	- _objectCreation = "2387931916201713264561023";
+	- _umlDependencyID = "2356";
+	- _lastID = 28;
+	- weakCGTime = 10.19.2017::6:9:56;
+	- strongCGTime = 10.19.2017::2:19:33;
+	- _defaultComposite = GUID bc801e60-7039-4358-9271-a50ac2b9ba9b;
+	- _eventsBaseID = -1;
+	- Classes = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ IClass 
+			- _id = GUID bc801e60-7039-4358-9271-a50ac2b9ba9b;
+			- _myState = 40960;
+			- _name = "TopLevel";
+			- _objectCreation = "2387951916201713264541023";
+			- _umlDependencyID = "2458";
+			- weakCGTime = 10.19.2017::2:19:33;
+			- strongCGTime = 1.1.1970::7:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IPart 
+					- _id = GUID 1720bd2f-5608-4a68-b9f1-8ff7d110da03;
+					- _myState = 10240;
+					- _name = "object_0";
+					- _objectCreation = "2387971916201713264521023";
+					- _umlDependencyID = "2421";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IClass";
+						- _id = GUID b645da59-f4f5-459d-8e9d-0369f252670b;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "";
+					}
+					- _implicitClass = { IClass 
+						- _id = GUID b645da59-f4f5-459d-8e9d-0369f252670b;
+						- _myState = 10240;
+						- _name = "object_0";
+						- _objectCreation = "2387991916201713264501023";
+						- _umlDependencyID = "2421";
+						- _theMainDiagram = { IHandle 
+							- _m2Class = "IDiagram";
+							- _filename = "";
+							- _subsystem = "";
+							- _class = "";
+							- _name = "\Î\á\ù\à\ÿ \ñ\õ\å\ì\à";
+							- _id = GUID a4511327-a99a-491a-a032-61183c3dce8c;
+						}
+						- weakCGTime = 10.19.2017::2:19:33;
+						- strongCGTime = 10.19.2017::2:19:33;
+						- _multiplicity = "";
+						- _itsStateChart = { IHandle 
+							- _m2Class = "";
+						}
+						- _classModifier = Unspecified;
+					}
+				}
+			}
+			- _classModifier = Unspecified;
+		}
+	}
+	- UseCases = { IRPYRawContainer 
+		- size = 14;
+		- value = 
+		{ IUseCase 
+			- _id = GUID 28265bcf-8ef5-4a56-910e-127ee36b7f4b;
+			- _myState = 8192;
+			- _name = "1. \Ï\ð\î\ñ\ì\î\ò\ð\ò\ü \ñ\ï\è\ñ\î\ê \í\à\ï\ð\à\â\ë\å\í\è\é";
+			- _objectCreation = "2388011916201713264481023";
+			- _umlDependencyID = "1733";
+			- weakCGTime = 1.1.1970::7:0:0;
+			- strongCGTime = 1.1.1970::7:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID 8118dd6d-f20d-4b98-86e4-9c9ac9941b02;
+					- _myState = 10240;
+					- _name = "its\À\á\è\ò\ó\ð\è\å\í\ò";
+					- _objectCreation = "2388031916201713264461023";
+					- _umlDependencyID = "1974";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IActor";
+						- _id = GUID 6c37dd20-4808-4dd0-beb9-abaf20f8a720;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID 46b2504a-a097-457f-aeb6-39a46f214f2d;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+			- UseCaseStereoTypes = { IRPYRawContainer 
+				- size = 0;
+			}
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID 973dd4d8-a805-4017-9787-4c287a66746c;
+			- _myState = 8192;
+			- _name = "2. \Ï\î\ä\à\ò\ü \ç\à\ÿ\â\ê\ó \í\à \ç\à\ï\è\ñ\ü \â \ã\ð\ó\ï\ï\ó";
+			- _objectCreation = "2388051916201713264441023";
+			- _umlDependencyID = "1734";
+			- weakCGTime = 1.1.1970::7:0:0;
+			- strongCGTime = 1.1.1970::7:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID bb69e0b0-fe4b-4a17-b166-d33f58b90e7b;
+					- _myState = 10240;
+					- _name = "its\À\á\è\ò\ó\ð\è\å\í\ò";
+					- _objectCreation = "2388071916201713264421023";
+					- _umlDependencyID = "1974";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IActor";
+						- _id = GUID 6c37dd20-4808-4dd0-beb9-abaf20f8a720;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID a47e34da-801f-47d3-9a56-e38d1ce0a976;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+			- UseCaseStereoTypes = { IRPYRawContainer 
+				- size = 0;
+			}
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID bf935208-9f78-470b-b1e4-7f54aac46360;
+			- _myState = 8192;
+			- _name = "3. \Ç\à\ï\è\ñ\à\ò\ü \à\á\è\ò\ó\ð\è\å\í\ò\à \â \ã\ð\ó\ï\ï\ó";
+			- _objectCreation = "2388091916201713264401023";
+			- _umlDependencyID = "1735";
+			- weakCGTime = 1.2.1990::0:0:0;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID c0e693b3-9a23-49ac-903e-752c5d1892a3;
+					- _myState = 10240;
+					- _name = "its\Ê\ë\è\å\í\ò-\ì\å\í\å\ä\æ\å\ð";
+					- _objectCreation = "2388111916201713264381023";
+					- _umlDependencyID = "2019";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IActor";
+						- _id = GUID 68883e54-994b-4611-9481-719ae9e226ae;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID 423ef6dc-39bd-49a5-82e5-a7aca140292e;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+			- Diagrams = { IRPYRawContainer 
+				- size = 0;
+			}
+			- UseCaseStereoTypes = { IRPYRawContainer 
+				- size = 0;
+			}
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID 0a80ebf0-cc7a-41ea-87fe-01c45d2a07e7;
+			- _myState = 8192;
+			- _name = "4. \Ñ\î\ñ\ò\à\â\è\ò\ü \ó\÷\å\á\í\û\é \ï\ë\à\í";
+			- _objectCreation = "2388131916201713264361023";
+			- _umlDependencyID = "1736";
+			- weakCGTime = 1.1.1970::7:0:0;
+			- strongCGTime = 1.1.1970::7:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID 8d31e126-2642-431f-a20f-98a3a494f19f;
+					- _myState = 10240;
+					- _name = "its\Ï\ð\î\ã\ð\à\ì\ì\í\û\é \ì\å\í\å\ä\æ\å\ð";
+					- _objectCreation = "2388151916201713264341023";
+					- _umlDependencyID = "1974";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IActor";
+						- _id = GUID bfc2e385-998e-4bc2-a5c9-9459fe75308a;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID 194eeae0-b77a-44e7-ab5a-04f8b69d71e8;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+			- UseCaseStereoTypes = { IRPYRawContainer 
+				- size = 0;
+			}
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID 46791354-1911-4d2e-8943-a6f09de83396;
+			- _myState = 8192;
+			- _name = "5. \Ñ\ô\î\ð\ì\è\ð\î\â\à\ò\ü \ð\à\ñ\ï\è\ñ\à\í\è\å";
+			- _objectCreation = "2388171916201713264321023";
+			- _umlDependencyID = "1737";
+			- weakCGTime = 1.1.1970::7:0:0;
+			- strongCGTime = 1.1.1970::7:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID ca3be703-3088-45c3-9db9-8c329769f39b;
+					- _myState = 10240;
+					- _name = "its\Ä\è\ñ\ï\å\ò\÷\å\ð";
+					- _objectCreation = "2388191916201713264301023";
+					- _umlDependencyID = "1974";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IActor";
+						- _id = GUID 7f8b542f-0b47-49ca-9390-0e08d04c2fe7;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID 035938ae-908a-4edb-a047-152641d238da;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+			- UseCaseStereoTypes = { IRPYRawContainer 
+				- size = 0;
+			}
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID 18d95ccb-320c-4af7-95dd-8086180d5187;
+			- _myState = 8192;
+			- _name = "6. \Ï\ð\î\à\í\à\ë\è\ç\è\ð\î\â\à\ò\ü \ï\î\ë\í\î\ò\ó \â\û\ï\î\ë\í\å\í\è\ÿ \ó\÷\å\á\í\î\é \í\à\ã\ð\ó\ç\ê\è";
+			- _objectCreation = "2388211916201713264281023";
+			- _umlDependencyID = "1738";
+			- weakCGTime = 1.1.1970::7:0:0;
+			- strongCGTime = 1.1.1970::7:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID 9d0aa38a-7693-4dbc-bbf4-c0a35d7093da;
+					- _myState = 10240;
+					- _name = "its\Ä\è\ñ\ï\å\ò\÷\å\ð";
+					- _objectCreation = "2388231916201713264261023";
+					- _umlDependencyID = "1974";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IActor";
+						- _id = GUID 7f8b542f-0b47-49ca-9390-0e08d04c2fe7;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID dac290e5-4bf1-4438-aa48-fc88781d7a10;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+			- UseCaseStereoTypes = { IRPYRawContainer 
+				- size = 0;
+			}
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID 88d46171-667c-481e-b667-d4ffc60bdeb1;
+			- _myState = 8192;
+			- _name = "7. \Î\ò\ì\å\ò\è\ò\ü \ï\ð\î\â\å\ä\å\í\í\î\å \ç\à\í\ÿ\ò\è\å";
+			- _objectCreation = "2388251916201713264241023";
+			- _umlDependencyID = "1739";
+			- weakCGTime = 1.1.1970::7:0:0;
+			- strongCGTime = 1.1.1970::7:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID 69683185-fb9f-4a84-957c-a187f6344115;
+					- _myState = 10240;
+					- _name = "its\Ï\ð\å\ï\î\ä\à\â\à\ò\å\ë\ü";
+					- _objectCreation = "2388271916201713264221023";
+					- _umlDependencyID = "1974";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IActor";
+						- _id = GUID 897bea32-c27a-43fe-b2e4-fdd78255e3b9;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID cc2e7273-d1d7-42a9-8bd3-3562e5153f35;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+			- UseCaseStereoTypes = { IRPYRawContainer 
+				- size = 0;
+			}
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID f1db7325-59d3-4117-aba3-72be43718cfa;
+			- _myState = 8192;
+			- _name = "8. \Í\à\ç\í\à\÷\è\ò\ü \ê\î\í\ñ\ó\ë\ü\ò\à\ö\è\þ";
+			- _objectCreation = "2388291916201713264201023";
+			- _umlDependencyID = "1740";
+			- weakCGTime = 1.1.1970::7:0:0;
+			- strongCGTime = 1.1.1970::7:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID b47b750a-0674-4bbd-b53f-5d5b67431038;
+					- _myState = 10240;
+					- _name = "its\Ï\ð\å\ï\î\ä\à\â\à\ò\å\ë\ü";
+					- _objectCreation = "2388311916201713264181023";
+					- _umlDependencyID = "1974";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IActor";
+						- _id = GUID 897bea32-c27a-43fe-b2e4-fdd78255e3b9;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID 3d21d649-6076-4bb1-a38a-6f31baaf4369;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+			- UseCaseStereoTypes = { IRPYRawContainer 
+				- size = 0;
+			}
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID 238aaa3b-d82a-4f46-ac3d-d32150e2d229;
+			- _myState = 8192;
+			- _name = "9. \Ï\î\ñ\ò\à\â\è\ò\ü \î\ö\å\í\ê\ó \ñ\ò\ó\ä\å\í\ò\ó";
+			- _objectCreation = "2388331916201713264161023";
+			- _umlDependencyID = "1741";
+			- weakCGTime = 1.1.1970::7:0:0;
+			- strongCGTime = 1.1.1970::7:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID 247c1ba4-23e7-4b40-8d58-89cbb0f8a47e;
+					- _myState = 10240;
+					- _name = "its\Ï\ð\å\ï\î\ä\à\â\à\ò\å\ë\ü";
+					- _objectCreation = "2388351916201713264141023";
+					- _umlDependencyID = "1974";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IActor";
+						- _id = GUID 897bea32-c27a-43fe-b2e4-fdd78255e3b9;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID baedab1c-567e-4363-a887-72b7114eeeab;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+			- UseCaseStereoTypes = { IRPYRawContainer 
+				- size = 0;
+			}
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID a82e7724-d23c-4d74-8101-e5a91bb4c226;
+			- _myState = 8192;
+			- _name = "10. \Ï\ð\î\ñ\ì\î\ò\ð\å\ò\ü \ò\å\ê\ó\ù\å\å \ð\à\ñ\ï\è\ñ\à\í\è\å \ç\à\í\ÿ\ò\è\é";
+			- _objectCreation = "2388371916201713264121023";
+			- _umlDependencyID = "1781";
+			- weakCGTime = 1.1.1970::7:0:0;
+			- strongCGTime = 1.1.1970::7:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID cbcf0280-bf2d-41ec-bb48-3d6bb28bf393;
+					- _myState = 10240;
+					- _name = "its\Ñ\ò\ó\ä\å\í\ò";
+					- _objectCreation = "2388391916201713264101023";
+					- _umlDependencyID = "1974";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IActor";
+						- _id = GUID 68de63f1-49cb-4752-8c01-6d71a665c56f;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID fd59d288-ec2c-46f0-872e-253a8f9bbc7f;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+			- UseCaseStereoTypes = { IRPYRawContainer 
+				- size = 0;
+			}
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID dcf1194a-270f-4e68-a4d3-a41b4f40a74f;
+			- _myState = 8192;
+			- _name = "11. \Ï\ð\î\ñ\ì\î\ò\ð\å\ò\ü \î\ö\å\í\ê\è \ñ\ò\ó\ä\å\í\ò\à";
+			- _objectCreation = "2388411916201713264081023";
+			- _umlDependencyID = "1782";
+			- weakCGTime = 1.1.1970::7:0:0;
+			- strongCGTime = 1.1.1970::7:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID ee518bd7-2b0f-448f-b1c4-694764925125;
+					- _myState = 10240;
+					- _name = "its\Ñ\ò\ó\ä\å\í\ò";
+					- _objectCreation = "2388431916201713264061023";
+					- _umlDependencyID = "1974";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IActor";
+						- _id = GUID 68de63f1-49cb-4752-8c01-6d71a665c56f;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID 656afc01-bfea-41d3-8327-8fb3312523f9;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+			- UseCaseStereoTypes = { IRPYRawContainer 
+				- size = 0;
+			}
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID 05006ebc-1d70-46b4-89e3-b1d37f0903dd;
+			- _myState = 8192;
+			- _name = "12. \Ï\ð\î\ñ\ì\î\ò\ð\å\ò\ü \î\á\ú\ÿ\â\ë\å\í\è\ÿ \ä\å\ê\à\í\à\ò\à";
+			- _objectCreation = "2388451916201713264041023";
+			- _umlDependencyID = "1783";
+			- weakCGTime = 1.1.1970::7:0:0;
+			- strongCGTime = 1.1.1970::7:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID d0fd54c1-fe13-45f3-a718-60345345753d;
+					- _myState = 10240;
+					- _name = "its\Ñ\ò\ó\ä\å\í\ò";
+					- _objectCreation = "2388471916201713264021023";
+					- _umlDependencyID = "1974";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IActor";
+						- _id = GUID 68de63f1-49cb-4752-8c01-6d71a665c56f;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID b0c5be7b-f3a4-4603-af45-72c4b23a98b3;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+				{ IAssociationEnd 
+					- _id = GUID 6a1a55f6-9d42-4425-aaf3-85c77aa42d1f;
+					- _myState = 10240;
+					- _name = "its\Ï\ð\å\ï\î\ä\à\â\à\ò\å\ë\ü";
+					- _objectCreation = "2388491916201713264001023";
+					- _umlDependencyID = "1974";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IActor";
+						- _id = GUID 897bea32-c27a-43fe-b2e4-fdd78255e3b9;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID 4069e72a-d4d3-4952-b049-a6829b9102c8;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+			- UseCaseStereoTypes = { IRPYRawContainer 
+				- size = 0;
+			}
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID 285fb111-bcd9-42d0-bb8e-4b6183f97b68;
+			- _myState = 8192;
+			- _name = "13. \Ï\ð\î\ñ\ì\î\ò\ð\å\ò\ü \è\í\ô\î\ð\ì\à\ö\è\þ \î \ñ\ò\ó\ä\å\í\ò\å";
+			- _objectCreation = "2388511916201713263981023";
+			- _umlDependencyID = "1793";
+			- weakCGTime = 1.1.1970::7:0:0;
+			- strongCGTime = 1.1.1970::7:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID 289fc834-a04f-43c2-be48-e77a2ede7827;
+					- _myState = 10240;
+					- _name = "its\Ä\å\ê\à\í\à\ò";
+					- _objectCreation = "2388531916201713263961023";
+					- _umlDependencyID = "1983";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IActor";
+						- _id = GUID 39336f2b-c764-4e4c-a704-a05a36ba9f0c;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID a4a3a730-67d5-43a2-ab6e-e97aa935fcc6;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+			- UseCaseStereoTypes = { IRPYRawContainer 
+				- size = 0;
+			}
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID 8727b9d7-fc66-4fab-a414-eaa011b05fa2;
+			- _myState = 8192;
+			- _name = "14. \Ñ\ä\å\ë\à\ò\ü \î\á\ú\ÿ\â\ë\å\í\è\å";
+			- _objectCreation = "2388551916201713263941023";
+			- _umlDependencyID = "1794";
+			- weakCGTime = 1.1.1970::7:0:0;
+			- strongCGTime = 1.1.1970::7:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID 28b26c90-a370-4937-9588-bc6b54cc14eb;
+					- _myState = 10240;
+					- _name = "its\Ä\å\ê\à\í\à\ò";
+					- _objectCreation = "2388571916201713263921023";
+					- _umlDependencyID = "1983";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IActor";
+						- _id = GUID 39336f2b-c764-4e4c-a704-a05a36ba9f0c;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID a227fb28-97e3-4d5e-9a11-d540df4d1a0f;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+			- UseCaseStereoTypes = { IRPYRawContainer 
+				- size = 0;
+			}
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+	}
+	- Actors = { IRPYRawContainer 
+		- size = 7;
+		- value = 
+		{ IActor 
+			- _id = GUID 6c37dd20-4808-4dd0-beb9-abaf20f8a720;
+			- _myState = 8192;
+			- _name = "\À\á\è\ò\ó\ð\è\å\í\ò";
+			- _objectCreation = "2388591916201713263901023";
+			- _umlDependencyID = "1647";
+			- weakCGTime = 10.19.2017::1:41:19;
+			- strongCGTime = 10.19.2017::1:38:42;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID 46b2504a-a097-457f-aeb6-39a46f214f2d;
+					- _myState = 10240;
+					- _name = "its1. \Ï\ð\î\ñ\ì\î\ò\ð\ò\ü \ñ\ï\è\ñ\î\ê \í\à\ï\ð\à\â\ë\å\í\è\é";
+					- _objectCreation = "2388611916201713263881023";
+					- _umlDependencyID = "2078";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 28265bcf-8ef5-4a56-910e-127ee36b7f4b;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID 8118dd6d-f20d-4b98-86e4-9c9ac9941b02;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+				{ IAssociationEnd 
+					- _id = GUID a47e34da-801f-47d3-9a56-e38d1ce0a976;
+					- _myState = 10240;
+					- _name = "its2. \Ï\î\ä\à\ò\ü \ç\à\ÿ\â\ê\ó \í\à \ç\à\ï\è\ñ\ü \â \ã\ð\ó\ï\ï\ó";
+					- _objectCreation = "2388631916201713263861023";
+					- _umlDependencyID = "2079";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 973dd4d8-a805-4017-9787-4c287a66746c;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID bb69e0b0-fe4b-4a17-b166-d33f58b90e7b;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+		}
+		{ IActor 
+			- _id = GUID 68883e54-994b-4611-9481-719ae9e226ae;
+			- _myState = 8192;
+			- _name = "\Ê\ë\è\å\í\ò-\ì\å\í\å\ä\æ\å\ð";
+			- _objectCreation = "2388651916201713263841023";
+			- _umlDependencyID = "1692";
+			- weakCGTime = 10.19.2017::1:42:3;
+			- strongCGTime = 10.19.2017::1:38:56;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID 423ef6dc-39bd-49a5-82e5-a7aca140292e;
+					- _myState = 10240;
+					- _name = "its3. \Ç\à\ï\è\ñ\à\ò\ü \à\á\è\ò\ó\ð\è\å\í\ò\à \â \ã\ð\ó\ï\ï\ó";
+					- _objectCreation = "2388671916201713263821023";
+					- _umlDependencyID = "2080";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID bf935208-9f78-470b-b1e4-7f54aac46360;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID c0e693b3-9a23-49ac-903e-752c5d1892a3;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+		}
+		{ IActor 
+			- _id = GUID bfc2e385-998e-4bc2-a5c9-9459fe75308a;
+			- _myState = 8192;
+			- _name = "\Ï\ð\î\ã\ð\à\ì\ì\í\û\é \ì\å\í\å\ä\æ\å\ð";
+			- _objectCreation = "2388691916201713263801023";
+			- _umlDependencyID = "1647";
+			- weakCGTime = 10.19.2017::1:43:50;
+			- strongCGTime = 10.19.2017::1:39:11;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID 194eeae0-b77a-44e7-ab5a-04f8b69d71e8;
+					- _myState = 10240;
+					- _name = "its4. \Ñ\î\ñ\ò\à\â\è\ò\ü \ó\÷\å\á\í\û\é \ï\ë\à\í";
+					- _objectCreation = "2388711916201713263781023";
+					- _umlDependencyID = "2081";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 0a80ebf0-cc7a-41ea-87fe-01c45d2a07e7;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID 8d31e126-2642-431f-a20f-98a3a494f19f;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+		}
+		{ IActor 
+			- _id = GUID 7f8b542f-0b47-49ca-9390-0e08d04c2fe7;
+			- _myState = 8192;
+			- _name = "\Ä\è\ñ\ï\å\ò\÷\å\ð";
+			- _objectCreation = "2388731916201713263761023";
+			- _umlDependencyID = "1647";
+			- weakCGTime = 10.19.2017::1:44:59;
+			- strongCGTime = 10.19.2017::1:39:18;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID 035938ae-908a-4edb-a047-152641d238da;
+					- _myState = 10240;
+					- _name = "its5. \Ñ\ô\î\ð\ì\è\ð\î\â\à\ò\ü \ð\à\ñ\ï\è\ñ\à\í\è\å";
+					- _objectCreation = "2388751916201713263741023";
+					- _umlDependencyID = "2082";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 46791354-1911-4d2e-8943-a6f09de83396;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID ca3be703-3088-45c3-9db9-8c329769f39b;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+				{ IAssociationEnd 
+					- _id = GUID dac290e5-4bf1-4438-aa48-fc88781d7a10;
+					- _myState = 10240;
+					- _name = "its6. \Ï\ð\î\à\í\à\ë\è\ç\è\ð\î\â\à\ò\ü \ï\î\ë\í\î\ò\ó \â\û\ï\î\ë\í\å\í\è\ÿ \ó\÷\å\á\í\î\é \í\à\ã\ð\ó\ç\ê\è";
+					- _objectCreation = "2388771916201713263721023";
+					- _umlDependencyID = "2083";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 18d95ccb-320c-4af7-95dd-8086180d5187;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID 9d0aa38a-7693-4dbc-bbf4-c0a35d7093da;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+		}
+		{ IActor 
+			- _id = GUID 897bea32-c27a-43fe-b2e4-fdd78255e3b9;
+			- _myState = 8192;
+			- _name = "\Ï\ð\å\ï\î\ä\à\â\à\ò\å\ë\ü";
+			- _objectCreation = "2388791916201713263701023";
+			- _umlDependencyID = "1647";
+			- weakCGTime = 10.19.2017::1:55:20;
+			- strongCGTime = 10.19.2017::1:39:26;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 4;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID cc2e7273-d1d7-42a9-8bd3-3562e5153f35;
+					- _myState = 10240;
+					- _name = "its7. \Î\ò\ì\å\ò\è\ò\ü \ï\ð\î\â\å\ä\å\í\í\î\å \ç\à\í\ÿ\ò\è\å";
+					- _objectCreation = "2388811916201713263681023";
+					- _umlDependencyID = "2084";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 88d46171-667c-481e-b667-d4ffc60bdeb1;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID 69683185-fb9f-4a84-957c-a187f6344115;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+				{ IAssociationEnd 
+					- _id = GUID 3d21d649-6076-4bb1-a38a-6f31baaf4369;
+					- _myState = 10240;
+					- _name = "its8. \Í\à\ç\í\à\÷\è\ò\ü \ê\î\í\ñ\ó\ë\ü\ò\à\ö\è\þ";
+					- _objectCreation = "2388831916201713263661023";
+					- _umlDependencyID = "2085";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID f1db7325-59d3-4117-aba3-72be43718cfa;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID b47b750a-0674-4bbd-b53f-5d5b67431038;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+				{ IAssociationEnd 
+					- _id = GUID baedab1c-567e-4363-a887-72b7114eeeab;
+					- _myState = 10240;
+					- _name = "its9. \Ï\î\ñ\ò\à\â\è\ò\ü \î\ö\å\í\ê\ó \ñ\ò\ó\ä\å\í\ò\ó";
+					- _objectCreation = "2388851916201713263641023";
+					- _umlDependencyID = "2086";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 238aaa3b-d82a-4f46-ac3d-d32150e2d229;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID 247c1ba4-23e7-4b40-8d58-89cbb0f8a47e;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+				{ IAssociationEnd 
+					- _id = GUID 4069e72a-d4d3-4952-b049-a6829b9102c8;
+					- _myState = 10240;
+					- _name = "its12. \Ï\ð\î\ñ\ì\î\ò\ð\å\ò\ü \î\á\ú\ÿ\â\ë\å\í\è\ÿ \ä\å\ê\à\í\à\ò\à";
+					- _objectCreation = "2388871916201713263621023";
+					- _umlDependencyID = "2128";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 05006ebc-1d70-46b4-89e3-b1d37f0903dd;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID 6a1a55f6-9d42-4425-aaf3-85c77aa42d1f;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+		}
+		{ IActor 
+			- _id = GUID 68de63f1-49cb-4752-8c01-6d71a665c56f;
+			- _myState = 8192;
+			- _name = "\Ñ\ò\ó\ä\å\í\ò";
+			- _objectCreation = "2388891916201713263601023";
+			- _umlDependencyID = "1647";
+			- weakCGTime = 10.19.2017::1:55:17;
+			- strongCGTime = 10.19.2017::1:39:35;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 3;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID fd59d288-ec2c-46f0-872e-253a8f9bbc7f;
+					- _myState = 10240;
+					- _name = "its10. \Ï\ð\î\ñ\ì\î\ò\ð\å\ò\ü \ò\å\ê\ó\ù\å\å \ð\à\ñ\ï\è\ñ\à\í\è\å \ç\à\í\ÿ\ò\è\é";
+					- _objectCreation = "2388911916201713263581023";
+					- _umlDependencyID = "2126";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID a82e7724-d23c-4d74-8101-e5a91bb4c226;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID cbcf0280-bf2d-41ec-bb48-3d6bb28bf393;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+				{ IAssociationEnd 
+					- _id = GUID 656afc01-bfea-41d3-8327-8fb3312523f9;
+					- _myState = 10240;
+					- _name = "its11. \Ï\ð\î\ñ\ì\î\ò\ð\å\ò\ü \î\ö\å\í\ê\è \ñ\ò\ó\ä\å\í\ò\à";
+					- _objectCreation = "2388931916201713263561023";
+					- _umlDependencyID = "2127";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID dcf1194a-270f-4e68-a4d3-a41b4f40a74f;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID ee518bd7-2b0f-448f-b1c4-694764925125;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+				{ IAssociationEnd 
+					- _id = GUID b0c5be7b-f3a4-4603-af45-72c4b23a98b3;
+					- _myState = 10240;
+					- _name = "its12. \Ï\ð\î\ñ\ì\î\ò\ð\å\ò\ü \î\á\ú\ÿ\â\ë\å\í\è\ÿ \ä\å\ê\à\í\à\ò\à";
+					- _objectCreation = "2388951916201713263541023";
+					- _umlDependencyID = "2128";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 05006ebc-1d70-46b4-89e3-b1d37f0903dd;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID d0fd54c1-fe13-45f3-a718-60345345753d;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+		}
+		{ IActor 
+			- _id = GUID 39336f2b-c764-4e4c-a704-a05a36ba9f0c;
+			- _myState = 8192;
+			- _name = "\Ä\å\ê\à\í\à\ò";
+			- _objectCreation = "2388971916201713263521023";
+			- _umlDependencyID = "1647";
+			- weakCGTime = 10.19.2017::1:54:10;
+			- strongCGTime = 10.19.2017::1:39:48;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID a4a3a730-67d5-43a2-ab6e-e97aa935fcc6;
+					- _myState = 10240;
+					- _name = "its13. \Ï\ð\î\ñ\ì\î\ò\ð\å\ò\ü \è\í\ô\î\ð\ì\à\ö\è\þ \î \ñ\ò\ó\ä\å\í\ò\å";
+					- _objectCreation = "2388991916201713263501023";
+					- _umlDependencyID = "2129";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 285fb111-bcd9-42d0-bb8e-4b6183f97b68;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID 289fc834-a04f-43c2-be48-e77a2ede7827;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+				{ IAssociationEnd 
+					- _id = GUID a227fb28-97e3-4d5e-9a11-d540df4d1a0f;
+					- _myState = 10240;
+					- _name = "its14. \Ñ\ä\å\ë\à\ò\ü \î\á\ú\ÿ\â\ë\å\í\è\å";
+					- _objectCreation = "2389011916201713263481023";
+					- _umlDependencyID = "2121";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 8727b9d7-fc66-4fab-a414-eaa011b05fa2;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID 28b26c90-a370-4937-9588-bc6b54cc14eb;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+		}
+	}
+	- _configurationRelatedTime = 10.19.2017::6:9:56;
+}
+

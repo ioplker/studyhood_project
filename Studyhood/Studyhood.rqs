@@ -1,0 +1,18 @@
+[Project]
+Owner=Unknown
+Name=Studyhood
+GUID={3ECC6647-8C40-45D9-834F-C6665E73A30A}
+CQWebURL=
+isTrackChangesAllowed=1
+Description=Studyhood Organization programming system
+Owner Key=17
+Revision number=1.0002
+Prefix=
+NbrRequirements=0
+Directory=\\vboxsrv\Mine\учёба\3 курс\2 семестр\ТРПО\Лабы\новые (вариант 21)\Лаба 7\Studyhood\Studyhood.rqs
+Key=1
+
+[Application]
+Data file version=1.0040
+Program Version=9.100.0.1
+
