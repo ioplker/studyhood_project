@@ -1,0 +1,7 @@
+E:\curr_proj_links\1 семестр\ТРПО\новое\Studyhood_project\prototype\Studyhood\Studyhood\bin\Debug\Studyhood.exe
+E:\curr_proj_links\1 семестр\ТРПО\новое\Studyhood_project\prototype\Studyhood\Studyhood\bin\Debug\Studyhood.pdb
+E:\curr_proj_links\1 семестр\ТРПО\новое\Studyhood_project\prototype\Studyhood\Studyhood\obj\x86\Debug\Studyhood.csproj.GenerateResource.Cache
+E:\curr_proj_links\1 семестр\ТРПО\новое\Studyhood_project\prototype\Studyhood\Studyhood\obj\x86\Debug\Studyhood.exe
+E:\curr_proj_links\1 семестр\ТРПО\новое\Studyhood_project\prototype\Studyhood\Studyhood\obj\x86\Debug\Studyhood.pdb
+E:\curr_proj_links\1 семестр\ТРПО\новое\Studyhood_project\prototype\Studyhood\Studyhood\obj\x86\Debug\Studyhood.Properties.Resources.resources
+E:\curr_proj_links\1 семестр\ТРПО\новое\Studyhood_project\prototype\Studyhood\Studyhood\obj\x86\Debug\Studyhood.MainPage.resources
