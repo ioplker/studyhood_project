@@ -1,0 +1,18 @@
+[Project]
+Owner=admin
+Name=Studyhood
+GUID={89730DA2-D3CE-4FED-A8C9-E504B0F1374B}
+CQWebURL=
+isTrackChangesAllowed=1
+Description=
+Owner Key=1
+Revision number=1.0006
+Prefix=
+NbrRequirements=0
+Directory=\\vboxsrv\Mine\curr_proj_links\1 семестр\ТРПО\новое\Studyhood_project\requirements\new\Studyhood\Studyhood.rqs
+Key=1
+
+[Application]
+Data file version=1.0040
+Program Version=9.100.0.1
+

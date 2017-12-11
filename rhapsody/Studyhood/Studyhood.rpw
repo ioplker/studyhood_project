@@ -9,8 +9,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 		{ CGEMdiDiagramParams 
 			- _placement = { CCommon_WINDOWPLACEMENT 
 				- m_nLength = 44;
-				- m_nFlags = 2;
-				- m_showCmd = 3;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
 				- m_ptMinPositionX = -1;
 				- m_ptMinPositionY = -1;
 				- m_ptMaxPositionX = -4;
@@ -30,7 +30,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _id = GUID cc30ced3-9f80-4c82-9d15-c77f515d80f8;
 			}
 			- _UpLeft = 0 343 ;
-			- _DownRight = 2879 1689 ;
+			- _DownRight = 1497 1163 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 0;
 		}
@@ -121,8 +121,8 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 		{ CGEMdiDiagramParams 
 			- _placement = { CCommon_WINDOWPLACEMENT 
 				- m_nLength = 44;
-				- m_nFlags = 0;
-				- m_showCmd = 1;
+				- m_nFlags = 2;
+				- m_showCmd = 3;
 				- m_ptMinPositionX = -1;
 				- m_ptMinPositionY = -1;
 				- m_ptMaxPositionX = -4;
@@ -142,7 +142,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- _id = GUID 0b21888a-f847-4c4a-b212-3b092a71d3d6;
 			}
 			- _UpLeft = 0 0 ;
-			- _DownRight = 789 501 ;
+			- _DownRight = 1517 736 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 4;
 		}
@@ -175,7 +175,7 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 			- m_nDiagramIndex = 3;
 		}
 	}
-	- _fullName = "E:\\CURR_PROJ_LINKS\\1 \Ñ\Å\Ì\Å\Ñ\Ò\Ð\\\Ò\Ð\Ï\Î\\\Í\Î\Â\Î\Å\\RHAPSODY\\OLD_TRANSFER\\STUDYHOOD\\Studyhood";
+	- _fullName = "E:\\CURR_PROJ_LINKS\\1 \Ñ\Å\Ì\Å\Ñ\Ò\Ð\\\Ò\Ð\Ï\Î\\\Í\Î\Â\Î\Å\\STUDYHOOD_PROJECT\\RHAPSODY\\STUDYHOOD\\Studyhood";
 	- m_SearchScopeList = { IRPYRawContainer 
 		- size = 0;
 	}
