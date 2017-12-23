@@ -7,19 +7,18 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace Studyhood
+namespace Studyhood.client
 {
-    public partial class MainPage : Form
+    public partial class ActionsListForm : Form
     {
-        public MainPage()
+        public ActionsListForm()
         {
             InitializeComponent();
         }
 
-        private void Login_Btn_Click(object sender, EventArgs e)
+        private void Close_Btn_Click(object sender, EventArgs e)
         {
-            client.LoginForm LoginForm = new client.LoginForm();
-            LoginForm.Show();
+            this.Close();
         }
     }
 }

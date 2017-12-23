@@ -46,27 +46,45 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ActualLesson.cs" />
-    <Compile Include="Classroom.cs" />
-    <Compile Include="Discipline.cs" />
-    <Compile Include="Group.cs" />
+    <Compile Include="client\ActionsListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="client\ActionsListForm.Designer.cs">
+      <DependentUpon>ActionsListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="client\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="client\LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="server\ActualLesson.cs" />
+    <Compile Include="server\Classroom.cs" />
+    <Compile Include="server\Discipline.cs" />
+    <Compile Include="server\Group.cs" />
     <Compile Include="MainPage.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="MainPage.Designer.cs">
       <DependentUpon>MainPage.cs</DependentUpon>
     </Compile>
-    <Compile Include="Mark.cs" />
-    <Compile Include="Plan.cs" />
-    <Compile Include="PresentStudents.cs" />
-    <Compile Include="Professor.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="server\Mark.cs" />
+    <Compile Include="server\Plan.cs" />
+    <Compile Include="server\PresentStudents.cs" />
+    <Compile Include="server\Professor.cs" />
+    <Compile Include="server\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Rating.cs" />
-    <Compile Include="RatingType.cs" />
-    <Compile Include="ScheduledLesson.cs" />
-    <Compile Include="Speciality.cs" />
-    <Compile Include="Student.cs" />
+    <Compile Include="server\Rating.cs" />
+    <Compile Include="server\RatingType.cs" />
+    <Compile Include="server\ScheduledLesson.cs" />
+    <Compile Include="server\Speciality.cs" />
+    <Compile Include="server\Student.cs" />
+    <EmbeddedResource Include="client\ActionsListForm.resx">
+      <DependentUpon>ActionsListForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="client\LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="MainPage.resx">
       <DependentUpon>MainPage.cs</DependentUpon>
     </EmbeddedResource>
@@ -90,6 +108,7 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

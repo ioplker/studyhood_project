@@ -179,6 +179,7 @@
             this.Login_Btn.TabIndex = 6;
             this.Login_Btn.Text = "Войти";
             this.Login_Btn.UseVisualStyleBackColor = true;
+            this.Login_Btn.Click += new System.EventHandler(this.Login_Btn_Click);
             // 
             // занятияToolStripMenuItem
             // 
