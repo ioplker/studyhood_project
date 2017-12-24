@@ -1,0 +1,75 @@
+I-Logix-RPY-Archive version 8.8.0 C# 6107223
+{ ISubsystem 
+	- _ownerHandle = { IHandle 
+		- _m2Class = "ISubsystem";
+		- _filename = "Studyhood.sbs";
+		- _subsystem = "";
+		- _class = "";
+		- _name = "Studyhood";
+		- _id = GUID b390e90b-ecbf-424e-984d-18d578aa56fb;
+	}
+	- _id = GUID 789bbd2b-3c20-46d6-afff-183e69b3e7a5;
+	- _myState = 8192;
+	- _properties = { IPropertyContainer 
+		- Subjects = { IRPYRawContainer 
+			- size = 1;
+			- value = 
+			{ IPropertySubject 
+				- _Name = "C#_CG";
+				- Metaclasses = { IRPYRawContainer 
+					- size = 1;
+					- value = 
+					{ IPropertyMetaclass 
+						- _Name = "Package";
+						- Properties = { IRPYRawContainer 
+							- size = 1;
+							- value = 
+							{ IProperty 
+								- _Name = "DefineNameSpace";
+								- _Value = "True";
+								- _Type = Bool;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	- _name = "LiteDB";
+	- Stereotypes = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ IHandle 
+			- _m2Class = "IStereotype";
+			- _filename = "$OMROOT\\Profiles\\CSharp\\\\CSharpProfile.sbs";
+			- _subsystem = "C#";
+			- _class = "";
+			- _name = "c# Namespace";
+			- _id = GUID 16780a25-15b9-4482-9550-d6d8355d65d7;
+		}
+	}
+	- _modifiedTimeWeak = 12.24.2017::11:8:48;
+	- weakCGTime = 12.24.2017::11:8:48;
+	- strongCGTime = 1.1.1970::7:0:0;
+	- _defaultComposite = GUID 0cfba42b-4d51-4075-b06c-8f742cb1ee72;
+	- _eventsBaseID = -1;
+	- Classes = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ IClass 
+			- _id = GUID 0cfba42b-4d51-4075-b06c-8f742cb1ee72;
+			- _myState = 40960;
+			- _name = "TopLevel";
+			- _modifiedTimeWeak = 12.24.2017::11:8:48;
+			- weakCGTime = 12.24.2017::11:8:48;
+			- strongCGTime = 1.1.1970::7:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+		}
+	}
+	- _configurationRelatedTime = 1.1.1970::7:0:0;
+}
+

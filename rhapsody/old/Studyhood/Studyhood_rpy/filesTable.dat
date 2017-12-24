@@ -1,0 +1,13 @@
+I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
+
+- filesTable = { IRPYRawContainer 
+	- size = 6;
+	- value = "Projects.rpl" ""
+	"Studyhood.rpy" ""
+	"Studyhood_rpy\\Client.sbs" "Client"
+	"Studyhood_rpy\\Default.sbs" "Default"
+	"Studyhood_rpy\\DefaultComponent.cmp" "DefaultComponent"
+	"Studyhood_rpy\\Server.sbs" "Server"
+	
+}
+

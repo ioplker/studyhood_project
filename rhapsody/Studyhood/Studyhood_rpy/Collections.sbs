@@ -1,0 +1,318 @@
+I-Logix-RPY-Archive version 8.8.0 C# 6107223
+{ ISubsystem 
+	- _ownerHandle = { IHandle 
+		- _m2Class = "ISubsystem";
+		- _filename = "Studyhood.sbs";
+		- _subsystem = "Studyhood";
+		- _class = "";
+		- _name = "System";
+		- _id = GUID e909f15a-13af-48a8-a671-cd23921cf506;
+	}
+	- _id = GUID 22d3854a-35b4-442b-96b6-1918deefe6cc;
+	- _myState = 8192;
+	- _properties = { IPropertyContainer 
+		- Subjects = { IRPYRawContainer 
+			- size = 1;
+			- value = 
+			{ IPropertySubject 
+				- _Name = "C#_CG";
+				- Metaclasses = { IRPYRawContainer 
+					- size = 1;
+					- value = 
+					{ IPropertyMetaclass 
+						- _Name = "Package";
+						- Properties = { IRPYRawContainer 
+							- size = 1;
+							- value = 
+							{ IProperty 
+								- _Name = "DefineNameSpace";
+								- _Value = "True";
+								- _Type = Bool;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	- _name = "Collections";
+	- Stereotypes = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ IHandle 
+			- _m2Class = "IStereotype";
+			- _filename = "$OMROOT\\Profiles\\CSharp\\\\CSharpProfile.sbs";
+			- _subsystem = "C#";
+			- _class = "";
+			- _name = "c# Namespace";
+			- _id = GUID 16780a25-15b9-4482-9550-d6d8355d65d7;
+		}
+	}
+	- _modifiedTimeWeak = 12.24.2017::11:8:48;
+	- _theMainDiagram = { IHandle 
+		- _m2Class = "IDiagram";
+		- _id = GUID 7df3affb-72e2-4068-866f-bf58eeee34d8;
+	}
+	- Declaratives = { IRPYRawContainer 
+		- size = 2;
+		- value = 
+		{ ISubsystem 
+			- fileName = "Generic";
+			- _id = GUID 441219f9-29f2-4914-b0ed-827cd4adf6ac;
+		}
+		{ IDiagram 
+			- _id = GUID 7df3affb-72e2-4068-866f-bf58eeee34d8;
+			- _myState = 8192;
+			- _properties = { IPropertyContainer 
+				- Subjects = { IRPYRawContainer 
+					- size = 2;
+					- value = 
+					{ IPropertySubject 
+						- _Name = "Format";
+						- Metaclasses = { IRPYRawContainer 
+							- size = 1;
+							- value = 
+							{ IPropertyMetaclass 
+								- _Name = "Package";
+								- Properties = { IRPYRawContainer 
+									- size = 7;
+									- value = 
+									{ IProperty 
+										- _Name = "DefaultSize";
+										- _Value = "0,0,216,151";
+										- _Type = String;
+									}
+									{ IProperty 
+										- _Name = "Fill.FillColor";
+										- _Value = "255,255,255";
+										- _Type = Color;
+									}
+									{ IProperty 
+										- _Name = "Font.Font";
+										- _Value = "Tahoma";
+										- _Type = String;
+									}
+									{ IProperty 
+										- _Name = "Font.Size";
+										- _Value = "8";
+										- _Type = Int;
+									}
+									{ IProperty 
+										- _Name = "Font.Weight@Child.NameCompartment@Name";
+										- _Value = "700";
+										- _Type = Int;
+									}
+									{ IProperty 
+										- _Name = "Line.LineColor";
+										- _Value = "109,163,217";
+										- _Type = Color;
+									}
+									{ IProperty 
+										- _Name = "Line.LineWidth";
+										- _Value = "1";
+										- _Type = Int;
+									}
+								}
+							}
+						}
+					}
+					{ IPropertySubject 
+						- _Name = "ObjectModelGe";
+						- Metaclasses = { IRPYRawContainer 
+							- size = 1;
+							- value = 
+							{ IPropertyMetaclass 
+								- _Name = "AutoPopulate";
+								- Properties = { IRPYRawContainer 
+									- size = 1;
+									- value = 
+									{ IProperty 
+										- _Name = "EnabledOnUpdateModel";
+										- _Value = "True";
+										- _Type = Bool;
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+			- _name = "PackageViewCollections";
+			- Stereotypes = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IHandle 
+					- _m2Class = "IStereotype";
+					- _filename = "$OMROOT\\Profiles\\CSharp\\\\CSharpProfile.sbs";
+					- _subsystem = "C#";
+					- _class = "";
+					- _name = "c# Class Diagram";
+					- _id = GUID 0b10f104-d1b7-401c-bae3-38d06d8fd00b;
+				}
+			}
+			- _modifiedTimeWeak = 1.1.1970::7:0:0;
+			- _lastModifiedTime = "12.24.2017::11:8:56";
+			- _graphicChart = { CGIClassChart 
+				- _id = GUID 8d8c9973-9984-4c9e-9a3a-a685e3f875f3;
+				- m_type = 0;
+				- m_pModelObject = { IHandle 
+					- _m2Class = "IDiagram";
+					- _id = GUID 7df3affb-72e2-4068-866f-bf58eeee34d8;
+				}
+				- m_pParent = ;
+				- m_name = { CGIText 
+					- m_str = "";
+					- m_style = "Arial" 10 0 0 0 1 ;
+					- m_color = { IColor 
+						- m_fgColor = 0;
+						- m_bgColor = 0;
+						- m_bgFlag = 0;
+					}
+					- m_position = 1 0 0  ;
+					- m_nIdent = 0;
+					- m_bImplicitSetRectPoints = 0;
+					- m_nOrientationCtrlPt = 8;
+				}
+				- m_drawBehavior = 0;
+				- m_bIsPreferencesInitialized = 0;
+				- elementList = 2;
+				{ CGIClass 
+					- _id = GUID 5ffd22f6-41d6-46d4-a324-92e8fc510e56;
+					- m_type = 78;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "IClass";
+						- _id = GUID 1d031e7e-4c74-4924-a945-7a6592e3cef3;
+					}
+					- m_pParent = ;
+					- m_name = { CGIText 
+						- m_str = "TopLevel";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 5;
+					}
+					- m_drawBehavior = 0;
+					- m_bIsPreferencesInitialized = 0;
+					- m_AdditionalLabel = { CGIText 
+						- m_str = "";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 1;
+					}
+					- m_polygon = 0 ;
+					- m_nNameFormat = 0;
+					- m_nIsNameFormat = 0;
+					- Compartments = { IRPYRawContainer 
+						- size = 0;
+					}
+					- Attrs = { IRPYRawContainer 
+						- size = 0;
+					}
+					- Operations = { IRPYRawContainer 
+						- size = 0;
+					}
+				}
+				{ CGIPackage 
+					- _id = GUID 41272ce9-6f66-4a8f-9506-21c2b2d40186;
+					- m_type = 127;
+					- m_pModelObject = { IHandle 
+						- _m2Class = "ISubsystem";
+						- _filename = "Studyhood.sbs";
+						- _subsystem = "Studyhood::System::Collections";
+						- _class = "";
+						- _name = "Generic";
+						- _id = GUID 441219f9-29f2-4914-b0ed-827cd4adf6ac;
+					}
+					- m_pParent = GUID 5ffd22f6-41d6-46d4-a324-92e8fc510e56;
+					- m_name = { CGIText 
+						- m_str = "Generic";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 5;
+					}
+					- m_drawBehavior = 4104;
+					- m_transform = 0.0986842 0 0 0.0556038 40 40 ;
+					- m_bIsPreferencesInitialized = 0;
+					- m_AdditionalLabel = { CGIText 
+						- m_str = "";
+						- m_style = "Arial" 10 0 0 0 1 ;
+						- m_color = { IColor 
+							- m_fgColor = 0;
+							- m_bgColor = 0;
+							- m_bgFlag = 0;
+						}
+						- m_position = 1 0 0  ;
+						- m_nIdent = 0;
+						- m_bImplicitSetRectPoints = 0;
+						- m_nOrientationCtrlPt = 1;
+					}
+					- m_polygon = 4 0 0  0 1151  1216 1151  1216 0  ;
+					- m_nNameFormat = 0;
+					- m_nIsNameFormat = 0;
+					- Compartments = { IRPYRawContainer 
+						- size = 0;
+					}
+				}
+				
+				- m_access = 'Z';
+				- m_modified = 'N';
+				- m_fileVersion = "";
+				- m_nModifyDate = 0;
+				- m_nCreateDate = 0;
+				- m_creator = "";
+				- m_bScaleWithZoom = 1;
+				- m_arrowStyle = 'S';
+				- m_pRoot = GUID 5ffd22f6-41d6-46d4-a324-92e8fc510e56;
+				- m_currentLeftTop = 0 0 ;
+				- m_currentRightBottom = 0 0 ;
+			}
+			- _defaultSubsystem = { IHandle 
+				- _m2Class = "ISubsystem";
+				- _id = GUID 22d3854a-35b4-442b-96b6-1918deefe6cc;
+			}
+		}
+	}
+	- weakCGTime = 12.24.2017::11:8:48;
+	- strongCGTime = 1.1.1970::7:0:0;
+	- _defaultComposite = GUID 1d031e7e-4c74-4924-a945-7a6592e3cef3;
+	- _eventsBaseID = -1;
+	- Classes = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ IClass 
+			- _id = GUID 1d031e7e-4c74-4924-a945-7a6592e3cef3;
+			- _myState = 40960;
+			- _name = "TopLevel";
+			- _modifiedTimeWeak = 12.24.2017::11:8:48;
+			- weakCGTime = 12.24.2017::11:8:48;
+			- strongCGTime = 1.1.1970::7:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+		}
+	}
+	- _configurationRelatedTime = 1.1.1970::7:0:0;
+}
+

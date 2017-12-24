@@ -1,0 +1,958 @@
+I-Logix-RPY-Archive version 8.8.0 * 6107223
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 50;
+	- value = "e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\client\\actionslistform.cs" 12.24.2017::14:12:35
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\client\\actionslistform.designer.cs" 12.23.2017::13:30:15
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\client\\addenrolleform.cs" 12.23.2017::8:43:7
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\client\\addenrolleform.designer.cs" 12.23.2017::8:43:7
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\client\\addmarkform.cs" 12.24.2017::12:50:11
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\client\\addmarkform.designer.cs" 12.24.2017::2:58:24
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\client\\addnotifyform.cs" 12.23.2017::15:3:47
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\client\\addnotifyform.designer.cs" 12.23.2017::14:21:23
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\client\\analysisform.cs" 12.23.2017::13:29:24
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\client\\analysisform.designer.cs" 12.23.2017::13:29:24
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\client\\editscheduleform.cs" 12.23.2017::9:32:55
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\client\\editscheduleform.designer.cs" 12.23.2017::9:32:55
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\client\\enroleesigninform.cs" 12.23.2017::9:44:31
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\client\\enroleesigninform.designer.cs" 12.23.2017::9:44:31
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\client\\lessonslistform.cs" 12.23.2017::13:23:32
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\client\\lessonslistform.designer.cs" 12.23.2017::13:23:32
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\client\\loginform.cs" 12.24.2017::14:12:41
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\client\\loginform.designer.cs" 12.23.2017::3:31:13
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\client\\mainpage.cs" 12.24.2017::14:11:25
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\client\\mainpage.designer.cs" 12.23.2017::8:46:6
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\client\\planform.cs" 12.24.2017::3:46:47
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\client\\planform.designer.cs" 12.24.2017::3:32:54
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\client\\presentlistform.cs" 12.23.2017::12:59:0
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\client\\presentlistform.designer.cs" 12.23.2017::12:59:0
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\client\\specialitylistform.cs" 12.23.2017::8:32:24
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\client\\specialitylistform.designer.cs" 12.23.2017::8:32:24
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\client\\studentinfoform.cs" 12.23.2017::6:36:43
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\client\\studentinfoform.designer.cs" 12.23.2017::6:36:43
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\client\\studentmarksform.cs" 12.24.2017::2:56:59
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\client\\studentmarksform.designer.cs" 12.24.2017::2:44:10
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\client\\viewnotifyform.cs" 12.23.2017::15:2:43
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\client\\viewnotifyform.designer.cs" 12.23.2017::15:0:36
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\client\\viewscheduleform.cs" 12.23.2017::9:35:50
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\client\\viewscheduleform.designer.cs" 12.23.2017::9:35:50
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\server\\actuallesson.cs" 12.24.2017::1:42:51
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\server\\classroom.cs" 12.24.2017::1:42:47
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\server\\dbmanager.cs" 12.24.2017::14:10:58
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\server\\discipline.cs" 12.24.2017::1:42:45
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\server\\group.cs" 12.24.2017::1:42:41
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\server\\mark.cs" 12.24.2017::2:22:49
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\server\\notify.cs" 12.23.2017::14:19:4
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\server\\plan.cs" 12.24.2017::3:8:21
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\server\\presentstudents.cs" 12.24.2017::1:42:35
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\server\\program.cs" 12.24.2017::12:50:11
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\server\\rating.cs" 12.24.2017::1:41:49
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\server\\ratingtype.cs" 12.24.2017::1:41:45
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\server\\scheduledlesson.cs" 12.24.2017::1:41:41
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\server\\speciality.cs" 12.24.2017::1:41:37
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\server\\student.cs" 12.24.2017::12:50:11
+	"e:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\ò\ð\ï\î\\\í\î\â\î\å\\studyhood_project\\prototype\\studyhood\\studyhood\\server\\teacher.cs" 12.24.2017::1:42:30
+	
+}
+- size = 100;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood";
+	- _class = "";
+	- _name = "Program";
+	- _id = GUID 5968d4ff-0012-4967-a91d-3948b68ff567;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "ActionsListForm";
+	- _id = GUID ea18b9d3-7a7c-4125-809a-dd51b69f4f31;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "StudentMarksForm_StudentMarksForm";
+	- _id = GUID b9aa07e6-16da-462e-b551-aa1dd75d4f6a;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "ActionsListForm_ActionsListForm";
+	- _id = GUID a7e48446-8d29-4997-896e-bca09ec8d0dc;
+}
+- genTime = 12.24.2017::14:12:35;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::System";
+	- _class = "";
+	- _name = "Drawing";
+	- _id = GUID 4ec9a95e-ab20-473a-86a7-bd78caf38fed;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::System::Windows::Forms";
+	- _class = "";
+	- _name = "TextBox";
+	- _id = GUID 29012483-b592-4a92-a883-4da224018b63;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::System::Windows::Forms";
+	- _class = "";
+	- _name = "ComboBox";
+	- _id = GUID 3914a9d8-edea-4252-a70e-f7b62fa1aa9e;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "LoginForm_LoginForm";
+	- _id = GUID 6e606ce8-bed8-4cb4-846b-4b26c20538bc;
+}
+- genTime = 12.24.2017::14:12:41;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "ViewNotifyForm_ViewNotifyForm";
+	- _id = GUID e8a26518-7a4a-4a7e-a5bb-5b6f7e84048c;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "StudentInfoForm_StudentInfoFormDesigner";
+	- _id = GUID d92ec02b-214c-4ded-9c94-6f318797d25a;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "AddNotifyForm_AddNotifyForm";
+	- _id = GUID 5a77ca02-3ad7-43e8-8efd-f732be0a44a3;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::System::Windows::Forms";
+	- _class = "";
+	- _name = "DataGridView";
+	- _id = GUID 52df89f3-da02-420c-af0b-8f37af92b7d0;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "AddMarkForm_AddMarkFormDesigner";
+	- _id = GUID 896f9ce7-4939-40b2-9338-2f69a567cd9a;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "ViewScheduleForm";
+	- _id = GUID 8d144815-b122-4b52-a701-6416477f20d7;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::server";
+	- _class = "";
+	- _name = "ScheduledLesson";
+	- _id = GUID 27356af9-e6cf-48e7-8125-80a0c3c83366;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "PresentListForm_PresentListFormDesigner";
+	- _id = GUID fd374c97-7e3b-4d76-bd8f-74fc9d0b1faf;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "AddNotifyForm_AddNotifyFormDesigner";
+	- _id = GUID 3ec770d0-eb69-4402-b554-d66c79ffd4e2;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::System::Windows::Forms";
+	- _class = "";
+	- _name = "Form";
+	- _id = GUID d23b8247-89e6-4038-8308-980cc0e1bf23;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "AddMarkForm_AddMarkForm";
+	- _id = GUID 4c0eafc3-564f-4a0f-a7b7-bb0548b19dba;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::server";
+	- _class = "";
+	- _name = "Notify";
+	- _id = GUID 21402285-6f8d-420b-a37c-1ab88f898284;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "ViewNotifyForm";
+	- _id = GUID be31fde5-23d0-45b0-9b53-4ac779f71c6e;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood";
+	- _class = "";
+	- _name = "client";
+	- _id = GUID bb79c341-fffb-425b-a0a0-a7f9b9095a28;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "ViewNotifyForm_ViewNotifyFormDesigner";
+	- _id = GUID 2101fecb-8d5b-4ba1-8f63-bce19c5b6105;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "LoginForm";
+	- _id = GUID de0e2388-abf7-4c4b-90c2-b51e8eab0b75;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "ICodeGenConfigInfo";
+	- _filename = "Studyhood.cmp";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "Studyhood\\Studyhood";
+	- _id = GUID f3c6958e-3541-4a62-9c93-5d9a4579e0ea;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::server";
+	- _class = "";
+	- _name = "PresentStudents";
+	- _id = GUID 5ffd1f4b-a3a7-4a95-90b7-26d52da64619;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "PlanForm";
+	- _id = GUID d4bd620a-7edb-4e14-81c8-377c790f499e;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::server";
+	- _class = "";
+	- _name = "Group";
+	- _id = GUID 5c9151f7-c512-4b13-bdbc-8f0310aecbab;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::System::Windows::Forms";
+	- _class = "";
+	- _name = "DataGridViewCellEventArgs";
+	- _id = GUID 4b6ad314-b253-46ae-b243-f527805f48cd;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::System";
+	- _class = "";
+	- _name = "Collections";
+	- _id = GUID 22d3854a-35b4-442b-96b6-1918deefe6cc;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::System::Windows::Forms";
+	- _class = "";
+	- _name = "DataGridViewTextBoxColumn";
+	- _id = GUID 84ef3c01-6932-4039-9753-bca84bfd79f3;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "StudentInfoForm_StudentInfoForm";
+	- _id = GUID 2cde54ea-6dba-4639-a1d2-d684ccc55ca8;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "AddMarkForm";
+	- _id = GUID f1277441-6495-4965-afc8-2c62f3ef38e1;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "StudentInfoForm";
+	- _id = GUID e02027ca-e7df-4794-92a1-7053d7f0fa6d;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "EditScheduleForm";
+	- _id = GUID 759a7871-7ad3-444e-9478-fa99b63d3460;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "EditScheduleForm_EditScheduleForm";
+	- _id = GUID fdbb6ddc-a52a-4592-b749-2c333cc70589;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "AddEnrolleForm_AddEnrolleForm";
+	- _id = GUID b6e18ec8-bb16-4c52-89d6-99b54233d5d8;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "PresentListForm_PresentListForm";
+	- _id = GUID 5abde450-6ea4-429a-b968-8bb93a6d3797;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::server";
+	- _class = "";
+	- _name = "Mark";
+	- _id = GUID 6588df40-02ab-4e37-a04a-0568789375a4;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "LessonsListForm";
+	- _id = GUID e5915487-b64f-450b-8a66-6a4c89f42a33;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::System::Windows::Forms";
+	- _class = "";
+	- _name = "DataGridViewCheckBoxColumn";
+	- _id = GUID 824dc518-056b-4424-afde-729c2c915870;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "AnalysisForm_AnalysisForm";
+	- _id = GUID a9b24458-ef04-40d7-84d3-48c277e556ff;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "ViewScheduleForm_ViewScheduleForm";
+	- _id = GUID 9b285071-a16d-4924-9238-3a187dd13bb4;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "StudentMarksForm_StudentMarksFormDesigner";
+	- _id = GUID 2fbc1929-0110-42a9-8683-c46624db861c;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "PlanForm_PlanForm";
+	- _id = GUID 484063dc-dfc5-4b25-9284-5f5fa8e563e7;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::server";
+	- _class = "";
+	- _name = "Teacher";
+	- _id = GUID e6a13158-6613-4eba-a752-354f1c3081f1;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood";
+	- _class = "";
+	- _name = "MainPage";
+	- _id = GUID 49e08398-34f4-4f30-9ee0-34eabefdcfc4;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::server";
+	- _class = "";
+	- _name = "Speciality";
+	- _id = GUID faae7db1-a519-445d-a520-9c0a374029e2;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::System::Windows::Forms";
+	- _class = "";
+	- _name = "RichTextBox";
+	- _id = GUID 75ec32cb-7fea-402f-88e4-3e407c8bd766;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "AnalysisForm";
+	- _id = GUID a3e1f2a6-508f-499e-b0db-36f1b4313714;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::System";
+	- _class = "";
+	- _name = "Guid";
+	- _id = GUID 691ee1b0-6029-4cc5-8f14-d7b20a3400d9;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood";
+	- _class = "";
+	- _name = "LiteDB";
+	- _id = GUID 789bbd2b-3c20-46d6-afff-183e69b3e7a5;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::server";
+	- _class = "";
+	- _name = "Rating";
+	- _id = GUID 54b363b8-2d19-4e82-b816-1239e626378c;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::System";
+	- _class = "";
+	- _name = "Windows";
+	- _id = GUID 42c08e9e-db5f-46eb-9935-2aa22a238e78;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::server";
+	- _class = "";
+	- _name = "Student";
+	- _id = GUID 518fecda-be1a-4e86-9eaa-e63ba5274d03;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "ViewScheduleForm_ViewScheduleFormDesigner";
+	- _id = GUID fe5e4796-c4bb-4c34-8624-8729a3e29865;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::System";
+	- _class = "";
+	- _name = "Text";
+	- _id = GUID 83a87f45-8e13-4507-bb45-cb41d5d87470;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::server";
+	- _class = "";
+	- _name = "ActualLesson";
+	- _id = GUID f6d0bc4d-280f-439b-b1e6-59835731637a;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::System::Collections";
+	- _class = "";
+	- _name = "Generic";
+	- _id = GUID 441219f9-29f2-4914-b0ed-827cd4adf6ac;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "AddEnrolleForm";
+	- _id = GUID 75cf770a-d226-4a14-981c-7d71277c96b5;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "EnroleeSignInForm_EnroleeSignInForm";
+	- _id = GUID f682751a-7c34-4f91-833f-58e26f887104;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::System";
+	- _class = "";
+	- _name = "DateTime";
+	- _id = GUID c9a7c4a3-d6b3-4960-b155-c07eb7c7896b;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::System::ComponentModel";
+	- _class = "";
+	- _name = "IContainer";
+	- _id = GUID 904a6b34-f7a7-402f-bcff-ebd078413a6b;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::System";
+	- _class = "";
+	- _name = "Data";
+	- _id = GUID e0e96a89-d12a-46e8-a410-f1d65cc171f4;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "EnroleeSignInForm";
+	- _id = GUID eefe450c-25b1-4069-b53e-78fba3182751;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::server";
+	- _class = "";
+	- _name = "DBManager";
+	- _id = GUID 73847536-f02c-421b-b9ac-599a9c3df611;
+}
+- genTime = 12.24.2017::14:10:58;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "SpecialityListForm_SpecialityListForm";
+	- _id = GUID 1c494393-8748-40dc-be65-24a29cec3aa1;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "EditScheduleForm_EditScheduleFormDesigner";
+	- _id = GUID b1b95cdb-fa66-4044-8341-31ec094b2b6f;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "SpecialityListForm_SpecialityListFormDesigner";
+	- _id = GUID 336ff0a3-d98d-459a-a6c2-7df57750ce77;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood";
+	- _class = "";
+	- _name = "MainPage_MainPage";
+	- _id = GUID bac5d930-d694-4fe6-8d48-4d99855b0f80;
+}
+- genTime = 12.24.2017::14:11:25;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "ActionsListForm_ActionsListFormDesigner";
+	- _id = GUID 704141af-d7c2-4db1-81c3-e258e02c81bc;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "StudentMarksForm";
+	- _id = GUID c80c7160-565c-4267-94f2-ea166bfd3e44;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "LoginForm_LoginFormDesigner";
+	- _id = GUID ade087c3-8e4b-4400-befe-84b28e6ef3fc;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::System::Windows::Forms";
+	- _class = "";
+	- _name = "MaskedTextBox";
+	- _id = GUID 154c039d-d31d-4b60-807e-d064d0751c02;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "AddNotifyForm";
+	- _id = GUID deb2604f-4174-4125-9d24-198f899d3d57;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "LessonsListForm_LessonsListForm";
+	- _id = GUID 922b9f5f-dfb4-4857-95e8-6409c57f3479;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "LessonsListForm_LessonsListFormDesigner";
+	- _id = GUID 21962c8d-1eac-4670-a067-24d4ea91083a;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "EnroleeSignInForm_EnroleeSignInFormDesigner";
+	- _id = GUID b5f4eb0c-252b-4a71-b2ad-5b5d5f43df6e;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "PresentListForm";
+	- _id = GUID d8fafeb6-2dd8-4781-908b-285179643c13;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::server";
+	- _class = "";
+	- _name = "RatingType";
+	- _id = GUID d53a1593-7b3c-4a9d-a88d-f8f80acd7efd;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "SpecialityListForm";
+	- _id = GUID 32ccefa7-4e86-44f2-b025-b52c6ca85e2b;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::System::Windows::Forms";
+	- _class = "";
+	- _name = "GroupBox";
+	- _id = GUID ea208dc4-221c-4375-b212-4358afd4248b;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::System::Windows::Forms";
+	- _class = "";
+	- _name = "Label";
+	- _id = GUID be27d5ff-555c-46af-9a83-a03226609be3;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::System";
+	- _class = "";
+	- _name = "ComponentModel";
+	- _id = GUID ec9bee0f-2378-49f6-896e-f60d996f2adf;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "AddEnrolleForm_AddEnrolleFormDesigner";
+	- _id = GUID 274afbf8-345f-410b-970b-5f5075970bfa;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::System::Windows";
+	- _class = "";
+	- _name = "Forms";
+	- _id = GUID 91455d1e-5cfd-4bc5-9b3a-ad419c93b163;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::System::Windows::Forms";
+	- _class = "";
+	- _name = "Button";
+	- _id = GUID 5e953519-7152-4a06-ac24-5c1164ec535f;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::System";
+	- _class = "";
+	- _name = "Linq";
+	- _id = GUID 1c1eae62-144b-4afe-b193-a71e01ba49da;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood";
+	- _class = "";
+	- _name = "System";
+	- _id = GUID e909f15a-13af-48a8-a671-cd23921cf506;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "Studyhood";
+	- _id = GUID b390e90b-ecbf-424e-984d-18d578aa56fb;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "PlanForm_PlanFormDesigner";
+	- _id = GUID 84c93bad-afa2-4b8c-a656-6f99532f6d21;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood";
+	- _class = "";
+	- _name = "server";
+	- _id = GUID fdc1714a-58df-4a2c-b41b-4b666011f641;
+}
+- genTime = 12.24.2017::12:47:5;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::server";
+	- _class = "";
+	- _name = "Plan";
+	- _id = GUID 78c92cb7-94fe-4683-b888-cb8fa4d82f63;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::System::Windows::Forms";
+	- _class = "";
+	- _name = "DateTimePicker";
+	- _id = GUID 58d21eb2-50c1-457e-b7ec-abf56c2c474b;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::System";
+	- _class = "";
+	- _name = "EventArgs";
+	- _id = GUID d596479c-f3c0-45dc-bf63-b9eafa5d2253;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::client";
+	- _class = "";
+	- _name = "AnalysisForm_AnalysisFormDesigner";
+	- _id = GUID 8d0e730a-4909-4781-b2fa-4b8f69050224;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::server";
+	- _class = "";
+	- _name = "Discipline";
+	- _id = GUID 3b570b79-d869-4d61-b07e-126d8468792b;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::Studyhood::server";
+	- _class = "";
+	- _name = "Classroom";
+	- _id = GUID 26715eb0-ccbd-4106-b31c-8ab2578154f0;
+}
+- genTime = 12.24.2017::13:3:6;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood";
+	- _class = "";
+	- _name = "Studyhood";
+	- _id = GUID e8a3a609-48dd-4c37-a5af-72c89893470f;
+}
+- genTime = 12.24.2017::11:8:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Studyhood.sbs";
+	- _subsystem = "Studyhood::System::Windows::Forms";
+	- _class = "";
+	- _name = "PictureBox";
+	- _id = GUID 870d8e0c-a76c-4028-9390-7e1e61c1c4ff;
+}
+- genTime = 12.24.2017::11:8:48;
+

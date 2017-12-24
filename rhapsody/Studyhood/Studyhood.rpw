@@ -1,11 +1,68 @@
-I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
+I-Logix-RPY-Archive version 8.8.0 * 6107223
 { CGEMdiWorkspace 
 	- stubList = { IRPYRawContainer 
 		- size = 0;
 	}
+	- isLoadOnDemand = 0;
 	- myViewsWithID = { IRPYRawContainer 
-		- size = 1;
+		- size = 4;
 		- value = 
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 2;
+				- m_showCmd = 2;
+				- m_ptMinPositionX = 0;
+				- m_ptMinPositionY = 550;
+				- m_ptMaxPositionX = -4;
+				- m_ptMaxPositionY = -26;
+				- m_nLeft = 175;
+				- m_nTop = 175;
+				- m_nRight = 854;
+				- m_nBottom = 577;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "Studyhood.sbs";
+				- _subsystem = "Studyhood::Studyhood";
+				- _class = "";
+				- _name = "Marks";
+				- _id = GUID 0c517801-e11a-43b4-a288-2769078a447d;
+			}
+			- _UpLeft = 0 75 ;
+			- _DownRight = 1697 1207 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 2;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -4;
+				- m_ptMaxPositionY = -26;
+				- m_nLeft = 150;
+				- m_nTop = 150;
+				- m_nRight = 825;
+				- m_nBottom = 571;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "Studyhood.sbs";
+				- _subsystem = "Studyhood::Studyhood";
+				- _class = "";
+				- _name = "Notify";
+				- _id = GUID e1adbef6-55fc-4c74-8d4a-2becce253ff0;
+			}
+			- _UpLeft = 0 72 ;
+			- _DownRight = 921 599 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 3;
+		}
 		{ CGEMdiDiagramParams 
 			- _placement = { CCommon_WINDOWPLACEMENT 
 				- m_nLength = 44;
@@ -15,28 +72,65 @@ I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
 				- m_ptMinPositionY = -1;
 				- m_ptMaxPositionX = -4;
 				- m_ptMaxPositionY = -26;
-				- m_nLeft = 25;
-				- m_nTop = 25;
-				- m_nRight = 639;
-				- m_nBottom = 448;
+				- m_nLeft = 0;
+				- m_nTop = 0;
+				- m_nRight = 679;
+				- m_nBottom = 402;
 			}
 			- _wasOpenedOnCloseProject = 1;
 			- _theDiagram = { IHandle 
-				- _m2Class = "IMSC";
-				- _filename = "";
-				- _subsystem = "";
+				- _m2Class = "IDiagram";
+				- _filename = "Studyhood.sbs";
+				- _subsystem = "Studyhood::Studyhood";
 				- _class = "";
-				- _name = "Add_lesson_info";
-				- _id = GUID cc30ced3-9f80-4c82-9d15-c77f515d80f8;
+				- _name = "Plan";
+				- _id = GUID 504334e2-b757-4371-8dbf-79ec0591f5a9;
 			}
-			- _UpLeft = 0 0 ;
-			- _DownRight = 986 525 ;
+			- _UpLeft = 0 34 ;
+			- _DownRight = 1540 1061 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 1;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -4;
+				- m_ptMaxPositionY = -26;
+				- m_nLeft = 50;
+				- m_nTop = 50;
+				- m_nRight = 729;
+				- m_nBottom = 452;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "Studyhood.sbs";
+				- _subsystem = "Studyhood::Studyhood";
+				- _class = "";
+				- _name = "View_schedule";
+				- _id = GUID 95c18487-435a-4b4f-84dc-68fb966e72ec;
+			}
+			- _UpLeft = 0 509 ;
+			- _DownRight = 1138 1123 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 0;
 		}
 	}
-	- _fullName = "E:\\CURR_PROJ_LINKS\\1 \Ñ\Å\Ì\Å\Ñ\Ò\Ð\\\Ò\Ð\Ï\Î\\\Í\Î\Â\Î\Å\\STUDYHOOD_PROJECT\\RHAPSODY\\STUDYHOOD\\Studyhood";
+	- _fullName = "E:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\Ò\Ð\Ï\Î\\\í\î\â\î\å\\Studyhood_project\\rhapsody\\Studyhood\\Studyhood";
 	- m_SearchScopeList = { IRPYRawContainer 
+		- size = 0;
+	}
+	- bUsingCustomBrowserView = 0;
+	- bUsingQueries = 0;
+	- bApplyOnDiagrams = 0;
+	- liQueryIDs = { IRPYRawContainer 
+		- size = 0;
+	}
+	- liElementTypes = { IRPYRawContainer 
 		- size = 0;
 	}
 

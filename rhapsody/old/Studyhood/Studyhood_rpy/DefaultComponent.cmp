@@ -1,10 +1,10 @@
-I-Logix-RPY-Archive version 8.8.0 C# 6107223
+I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
 { IComponent 
-	- _id = GUID 5e775f7a-e735-44d5-9cd3-5c07513f37af;
+	- _id = GUID 0682decb-6a11-4def-b0c2-45b22d2fd8fb;
 	- _myState = 139264;
 	- _name = "DefaultComponent";
-	- codeUpdateCGTime = 12.24.2017::11:5:44;
-	- _modifiedTimeWeak = 12.24.2017::11:5:44;
+	- _objectCreation = "321294116201721-4428123";
+	- _umlDependencyID = "3178";
 	- m_buildType = Executable;
 	- m_libraries = "";
 	- m_additionalSources = "";
@@ -12,11 +12,11 @@ I-Logix-RPY-Archive version 8.8.0 C# 6107223
 	- m_includePath = "";
 	- m_initializationCode = "";
 	- m_folder = { IFolder 
-		- _id = GUID 4b7d8e15-6931-4d0a-b7eb-fe3d805408f5;
+		- _id = GUID 8176700e-c2a6-4a57-9e33-49e8b73a5021;
 		- _myState = 73728;
 		- _name = "Files";
-		- codeUpdateCGTime = 12.24.2017::11:5:37;
-		- _modifiedTimeWeak = 12.24.2017::11:5:37;
+		- _objectCreation = "321296116201721-4430123";
+		- _umlDependencyID = "2016";
 		- m_path = "";
 		- Elements = { IRPYRawContainer 
 			- size = 0;
@@ -27,16 +27,17 @@ I-Logix-RPY-Archive version 8.8.0 C# 6107223
 	}
 	- m_configActive = { ICodeGenConfigInfoHandle 
 		- _m2Class = "ICodeGenConfigInfo";
-		- _id = GUID 948ef63c-70e5-4ea7-aefc-ddbaf6afdf09;
+		- _id = GUID 084fe2e7-61df-492a-bac8-759a11adc2b3;
 	}
 	- Configs = { IRPYRawContainer 
 		- size = 1;
 		- value = 
 		{ ICodeGenConfigInfo 
-			- _id = GUID 948ef63c-70e5-4ea7-aefc-ddbaf6afdf09;
+			- _id = GUID 084fe2e7-61df-492a-bac8-759a11adc2b3;
 			- _myState = 8192;
 			- _name = "DefaultConfig";
-			- _modifiedTimeWeak = 1.1.1970::7:0:0;
+			- _objectCreation = "321298116201721-4432123";
+			- _umlDependencyID = "2828";
 			- _scopeType = Explicit;
 			- _libraries = "";
 			- _additionalSources = "";
@@ -56,10 +57,11 @@ I-Logix-RPY-Archive version 8.8.0 C# 6107223
 				- size = 0;
 			}
 			- _root = { IFolder 
-				- _id = GUID 434ea959-c9cb-4b7f-bfce-e3923f6beea5;
+				- _id = GUID 25912293-60ce-405b-b832-7ae5afc15aa6;
 				- _myState = 8192;
 				- _name = "DefaultConfig";
-				- _modifiedTimeWeak = 1.1.1970::7:0:0;
+				- _objectCreation = "321300116201721-4434123";
+				- _umlDependencyID = "2814";
 				- m_path = "";
 				- Elements = { IRPYRawContainer 
 					- size = 0;
@@ -68,13 +70,12 @@ I-Logix-RPY-Archive version 8.8.0 C# 6107223
 					- size = 0;
 				}
 			}
-			- weakCGTime = 1.1.1970::7:0:0;
-			- strongCGTime = 1.1.1970::7:0:0;
+			- weakCGTime = 1.2.1990::0:0:0;
+			- strongCGTime = 1.2.1990::0:0:0;
 			- AnimScopeElements = { IRPYRawContainer 
 				- size = 0;
 			}
 			- m_allInAnimScope = 1;
-			- m_generateUsecases = 0;
 		}
 	}
 	- HandlesInMe = { IRPYRawContainer 
@@ -86,23 +87,23 @@ I-Logix-RPY-Archive version 8.8.0 C# 6107223
 			- _subsystem = "";
 			- _class = "";
 			- _name = "Default";
-			- _id = GUID e562a913-07c1-41a6-9d92-153ccc244bf4;
+			- _id = GUID cf4e5791-17f7-4f3a-aea9-10c877756e55;
 		}
 		{ IHandle 
-			- _m2Class = "IProfile";
-			- _filename = "$OMROOT\\Settings\\CodeCentric\\CodeCentric752CSharp.sbs";
+			- _m2Class = "ISubsystem";
+			- _filename = "Server.sbs";
 			- _subsystem = "";
 			- _class = "";
-			- _name = "CodeCentricCSharp";
-			- _id = GUID 81d7329b-ad5c-415c-bd03-686696a55532;
+			- _name = "Server";
+			- _id = GUID 3250a69e-d0f7-4a4f-be17-894098063010;
 		}
 		{ IHandle 
-			- _m2Class = "IProfile";
-			- _filename = "$OMROOT\\Profiles\\CSharp\\\\CSharpProfile.sbs";
+			- _m2Class = "ISubsystem";
+			- _filename = "Client.sbs";
 			- _subsystem = "";
 			- _class = "";
-			- _name = "C#";
-			- _id = GUID 25d37c62-0a81-48f9-852f-75e181c43db0;
+			- _name = "Client";
+			- _id = GUID d7a31e5a-a22d-4340-8876-f16ae580f3f8;
 		}
 	}
 	- VariationPoints = { IRPYRawContainer 
@@ -111,7 +112,7 @@ I-Logix-RPY-Archive version 8.8.0 C# 6107223
 	- SelectedVariants = { IRPYRawContainer 
 		- size = 0;
 	}
-	- weakCGTime = 12.24.2017::11:5:44;
-	- strongCGTime = 1.1.1970::7:0:0;
+	- weakCGTime = 10.19.2017::1:37:26;
+	- strongCGTime = 1.2.1990::0:0:0;
 }
 

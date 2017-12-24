@@ -1,13 +1,26 @@
-I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
+I-Logix-RPY-Archive version 8.8.0 * 6107223
 
 - filesTable = { IRPYRawContainer 
-	- size = 6;
-	- value = "Projects.rpl" ""
-	"Studyhood.rpy" ""
-	"Studyhood_rpy\\Client.sbs" "Client"
+	- size = 19;
+	- value = "Studyhood.rpy" ""
+	"Studyhood_rpy\\Collections.sbs" "Studyhood::System::Collections"
+	"Studyhood_rpy\\ComponentModel.sbs" "Studyhood::System::ComponentModel"
+	"Studyhood_rpy\\Data.sbs" "Studyhood::System::Data"
 	"Studyhood_rpy\\Default.sbs" "Default"
 	"Studyhood_rpy\\DefaultComponent.cmp" "DefaultComponent"
-	"Studyhood_rpy\\Server.sbs" "Server"
+	"Studyhood_rpy\\Drawing.sbs" "Studyhood::System::Drawing"
+	"Studyhood_rpy\\Forms.sbs" "Studyhood::System::Windows::Forms"
+	"Studyhood_rpy\\Generic.sbs" "Studyhood::System::Collections::Generic"
+	"Studyhood_rpy\\Linq.sbs" "Studyhood::System::Linq"
+	"Studyhood_rpy\\LiteDB.sbs" "Studyhood::LiteDB"
+	"Studyhood_rpy\\Studyhood.cmp" "Studyhood"
+	"Studyhood_rpy\\Studyhood.sbs" "Studyhood"
+	"Studyhood_rpy\\Studyhood_1.sbs" "Studyhood::Studyhood"
+	"Studyhood_rpy\\System.sbs" "Studyhood::System"
+	"Studyhood_rpy\\Text.sbs" "Studyhood::System::Text"
+	"Studyhood_rpy\\Windows.sbs" "Studyhood::System::Windows"
+	"Studyhood_rpy\\client.sbs" "Studyhood::Studyhood::client"
+	"Studyhood_rpy\\server.sbs" "Studyhood::Studyhood::server"
 	
 }
 

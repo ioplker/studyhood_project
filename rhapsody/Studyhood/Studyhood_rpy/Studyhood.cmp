@@ -1,0 +1,341 @@
+I-Logix-RPY-Archive version 8.8.0 C# 6107223
+{ IComponent 
+	- _id = GUID f174d8f9-4705-4935-bcd5-5fb30d7bd30b;
+	- _myState = 8192;
+	- _name = "Studyhood";
+	- codeUpdateCGTime = 12.24.2017::11:8:48;
+	- _modifiedTimeWeak = 12.24.2017::11:8:48;
+	- m_buildType = Executable;
+	- m_libraries = "";
+	- m_additionalSources = "";
+	- m_standardHeaders = "";
+	- m_includePath = "";
+	- m_initializationCode = "";
+	- m_folder = { IFolder 
+		- _id = GUID 90ef68c9-77cf-41df-8f81-95ede1312990;
+		- _myState = 73728;
+		- _name = "Files";
+		- codeUpdateCGTime = 12.24.2017::11:8:48;
+		- _modifiedTimeWeak = 12.24.2017::11:8:48;
+		- m_path = "";
+		- Elements = { IRPYRawContainer 
+			- size = 2;
+			- value = 
+			{ IHandle 
+				- _m2Class = "";
+			}
+			{ IHandle 
+				- _m2Class = "ISubsystem";
+				- _filename = "Studyhood.sbs";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "Studyhood";
+				- _id = GUID b390e90b-ecbf-424e-984d-18d578aa56fb;
+			}
+		}
+		- Files = { IRPYRawContainer 
+			- size = 0;
+		}
+	}
+	- m_configActive = { ICodeGenConfigInfoHandle 
+		- _m2Class = "ICodeGenConfigInfo";
+		- _id = GUID f3c6958e-3541-4a62-9c93-5d9a4579e0ea;
+	}
+	- Configs = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ ICodeGenConfigInfo 
+			- _id = GUID f3c6958e-3541-4a62-9c93-5d9a4579e0ea;
+			- _myState = 8192;
+			- _properties = { IPropertyContainer 
+				- Subjects = { IRPYRawContainer 
+					- size = 4;
+					- value = 
+					{ IPropertySubject 
+						- _Name = "C#_CG";
+						- Metaclasses = { IRPYRawContainer 
+							- size = 1;
+							- value = 
+							{ IPropertyMetaclass 
+								- _Name = "Framework";
+								- Properties = { IRPYRawContainer 
+									- size = 1;
+									- value = 
+									{ IProperty 
+										- _Name = "IncludeHeaderFile";
+										- _Value = "OnlyOnAnimation";
+										- _Type = Enum;
+										- _ExtraTypeInfo = "Yes,OnlyOnAnimation,No";
+									}
+								}
+							}
+						}
+					}
+					{ IPropertySubject 
+						- _Name = "C#_ReverseEngineering";
+						- Metaclasses = { IRPYRawContainer 
+							- size = 1;
+							- value = 
+							{ IPropertyMetaclass 
+								- _Name = "ImplementationTrait";
+								- Properties = { IRPYRawContainer 
+									- size = 2;
+									- value = 
+									{ IProperty 
+										- _Name = "ImportAsExternal";
+										- _Value = "False";
+										- _Type = Bool;
+									}
+									{ IProperty 
+										- _Name = "InterfaceOnly";
+										- _Value = "False";
+										- _Type = Bool;
+									}
+								}
+							}
+						}
+					}
+					{ IPropertySubject 
+						- _Name = "CG";
+						- Metaclasses = { IRPYRawContainer 
+							- size = 1;
+							- value = 
+							{ IPropertyMetaclass 
+								- _Name = "Configuration";
+								- Properties = { IRPYRawContainer 
+									- size = 1;
+									- value = 
+									{ IProperty 
+										- _Name = "MainGenerationScheme";
+										- _Value = "UserInitializationOnly";
+										- _Type = Enum;
+										- _ExtraTypeInfo = "Full,UserInitializationOnly,None";
+									}
+								}
+							}
+						}
+					}
+					{ IPropertySubject 
+						- _Name = "ReverseEngineering";
+						- Metaclasses = { IRPYRawContainer 
+							- size = 2;
+							- value = 
+							{ IPropertyMetaclass 
+								- _Name = "Main";
+								- Properties = { IRPYRawContainer 
+									- size = 1;
+									- value = 
+									{ IProperty 
+										- _Name = "Files";
+										- _Value = "E:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\Ò\Ð\Ï\Î\\\í\î\â\î\å\\Studyhood_project\\prototype\\Studyhood\\Studyhood\\client\\,E:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\Ò\Ð\Ï\Î\\\í\î\â\î\å\\Studyhood_project\\prototype\\Studyhood\\Studyhood\\server\\";
+										- _Type = String;
+									}
+								}
+							}
+							{ IPropertyMetaclass 
+								- _Name = "Update";
+								- Properties = { IRPYRawContainer 
+									- size = 1;
+									- value = 
+									{ IProperty 
+										- _Name = "CreateObjectModelDiagrams";
+										- _Value = "True";
+										- _Type = Bool;
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+			- _name = "Studyhood";
+			- Stereotypes = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IHandle 
+					- _m2Class = "IStereotype";
+					- _filename = "PredefinedTypes.sbs";
+					- _subsystem = "PredefinedTypes";
+					- _class = "";
+					- _name = "VisualStudioConfiguration";
+					- _id = GUID 2004e697-4929-41b2-bbde-89f53ed5d048;
+				}
+			}
+			- _modifiedTimeWeak = 12.24.2017::11:8:48;
+			- HyperLinks = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IMHyperLink 
+					- _id = GUID 4b53867d-674b-4edd-a8be-07a9e1428f33;
+					- _modifiedTimeWeak = 1.1.1970::7:0:0;
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "";
+					}
+					- _linkDispName = "Edit Makefile";
+					- _linkType = "FREE";
+					- _linkTarget = "E:/curr_proj_links/1 \ñ\å\ì\å\ñ\ò\ð/\Ò\Ð\Ï\Î/\í\î\â\î\å/Studyhood_project/prototype/Studyhood/Studyhood/Studyhood.mak";
+					- isConfigurationFileHyperLink = 1;
+				}
+				{ IMHyperLink 
+					- _id = GUID c97caf83-5e04-4bed-be73-5f95e3378487;
+					- _modifiedTimeWeak = 1.1.1970::7:0:0;
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "";
+					}
+					- _linkDispName = "Edit Main File";
+					- _linkType = "FREE";
+					- _linkTarget = "E:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\Ò\Ð\Ï\Î\\\í\î\â\î\å\\Studyhood_project\\prototype\\Studyhood\\Studyhood/MainStudyhood";
+					- isConfigurationFileHyperLink = 1;
+				}
+			}
+			- Tags = { IRPYRawContainer 
+				- size = 4;
+				- value = 
+				{ ITag 
+					- _id = GUID ed2b8052-b4c9-43e5-86f0-4da959d2f584;
+					- _myState = 8192;
+					- _name = "IDEName";
+					- _modifiedTimeWeak = 1.1.1970::7:0:0;
+					- ValueSpecifications = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ ILiteralSpecification 
+							- _id = GUID 53cc2301-e9c4-41c8-be54-39ad08523ee4;
+							- _modifiedTimeWeak = 1.1.1970::7:0:0;
+							- _value = "VisualStudio";
+						}
+					}
+					- _typeOf = { IHandle 
+						- _m2Class = "IType";
+						- _filename = "PredefinedTypes.sbs";
+						- _subsystem = "PredefinedTypes";
+						- _class = "";
+						- _name = "RhpString";
+						- _id = GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35;
+					}
+					- _isOrdered = 0;
+				}
+				{ ITag 
+					- _id = GUID 81fa9983-0e95-4c5f-80a6-06603914f489;
+					- _myState = 8192;
+					- _name = "IDEProject";
+					- _modifiedTimeWeak = 1.1.1970::7:0:0;
+					- ValueSpecifications = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ ILiteralSpecification 
+							- _id = GUID 60b298b3-9e25-4da5-aaa8-f645b51ff467;
+							- _modifiedTimeWeak = 1.1.1970::7:0:0;
+							- _value = "Studyhood";
+						}
+					}
+					- _typeOf = { IHandle 
+						- _m2Class = "IType";
+						- _filename = "PredefinedTypes.sbs";
+						- _subsystem = "PredefinedTypes";
+						- _class = "";
+						- _name = "RhpString";
+						- _id = GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35;
+					}
+					- _isOrdered = 0;
+				}
+				{ ITag 
+					- _id = GUID c08f2525-4384-4b46-9f77-af95acc2f94a;
+					- _myState = 8192;
+					- _name = "IDEWorkspace";
+					- _modifiedTimeWeak = 1.1.1970::7:0:0;
+					- ValueSpecifications = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ ILiteralSpecification 
+							- _id = GUID d162e903-d50c-430a-9512-dd7f7474ed10;
+							- _modifiedTimeWeak = 1.1.1970::7:0:0;
+							- _value = "E:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\Ò\Ð\Ï\Î\\\í\î\â\î\å\\Studyhood_project\\prototype\\Studyhood\\Studyhood";
+						}
+					}
+					- _typeOf = { IHandle 
+						- _m2Class = "IType";
+						- _filename = "PredefinedTypes.sbs";
+						- _subsystem = "PredefinedTypes";
+						- _class = "";
+						- _name = "RhpString";
+						- _id = GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35;
+					}
+					- _isOrdered = 0;
+				}
+				{ ITag 
+					- _id = GUID c73c7d16-6565-41d3-bbe4-f6a00eec3234;
+					- _myState = 8192;
+					- _name = "IDESolution";
+					- _modifiedTimeWeak = 1.1.1970::7:0:0;
+					- ValueSpecifications = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ ILiteralSpecification 
+							- _id = GUID 582f584e-8841-4d80-beba-f345c63a26e9;
+							- _modifiedTimeWeak = 1.1.1970::7:0:0;
+							- _value = "E:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\Ò\Ð\Ï\Î\\\í\î\â\î\å\\Studyhood_project\\prototype\\Studyhood\\Studyhood.sln";
+						}
+					}
+					- _typeOf = { IHandle 
+						- _m2Class = "IType";
+						- _filename = "PredefinedTypes.sbs";
+						- _subsystem = "PredefinedTypes";
+						- _class = "";
+						- _name = "RhpString";
+						- _id = GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35;
+					}
+					- _isOrdered = 0;
+				}
+			}
+			- _scopeType = Explicit;
+			- _libraries = "";
+			- _additionalSources = "";
+			- _standardHeaders = "";
+			- _includePath = "";
+			- _targetMain = "";
+			- _instrumentation = None;
+			- _timeModel = RealTime;
+			- m_generateActors = 1;
+			- _statechartImplementation = Flat;
+			- _initializationCode = "";
+			- _checksList = 0 ;
+			- ScopeElements = { IRPYRawContainer 
+				- size = 0;
+			}
+			- InitialInstances = { IRPYRawContainer 
+				- size = 0;
+			}
+			- _root = { IFolder 
+				- _id = GUID c073fb10-83fe-4e22-b9c8-c142180ace55;
+				- _myState = 73728;
+				- _name = "Studyhood";
+				- codeUpdateCGTime = 12.24.2017::11:7:7;
+				- _modifiedTimeWeak = 12.24.2017::11:7:7;
+				- m_path = "E:\\curr_proj_links\\1 \ñ\å\ì\å\ñ\ò\ð\\\Ò\Ð\Ï\Î\\\í\î\â\î\å\\Studyhood_project\\prototype\\Studyhood\\Studyhood";
+				- Elements = { IRPYRawContainer 
+					- size = 0;
+				}
+				- Files = { IRPYRawContainer 
+					- size = 0;
+				}
+			}
+			- weakCGTime = 12.24.2017::11:8:48;
+			- strongCGTime = 12.24.2017::11:8:48;
+			- AnimScopeElements = { IRPYRawContainer 
+				- size = 0;
+			}
+			- m_allInAnimScope = 1;
+			- m_generateUsecases = 0;
+		}
+	}
+	- VariationPoints = { IRPYRawContainer 
+		- size = 0;
+	}
+	- SelectedVariants = { IRPYRawContainer 
+		- size = 0;
+	}
+	- weakCGTime = 12.24.2017::11:8:48;
+	- strongCGTime = 12.24.2017::11:8:48;
+}
+

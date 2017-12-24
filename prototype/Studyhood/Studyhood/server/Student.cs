@@ -1,14 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
-namespace Studyhood.server
+
+
+
+
+
+
+
+
+
+
+
+public void Operation_0()
 {
-    class Student
-    {
-        public Guid Id { get; set; }
-        public Guid Group_id { get; set; }
-        public String FIO { get; set; }
-    }
 }
