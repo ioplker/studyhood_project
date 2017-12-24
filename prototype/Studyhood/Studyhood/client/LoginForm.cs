@@ -16,15 +16,17 @@ namespace Studyhood.client
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void close_login_form(object sender, EventArgs e)
         {
             this.Close();
         }
 
-        private void button1_Click_1(object sender, EventArgs e)
+        private void show_actionslist_form(object sender, EventArgs e)
         {
             client.ActionsListForm ActionsListForm = new client.ActionsListForm();
+            ActionsListForm.Owner = this.Owner;
             ActionsListForm.Show();
+            this.Close();
         }
     }
 }

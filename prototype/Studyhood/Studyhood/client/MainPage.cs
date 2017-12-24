@@ -19,7 +19,13 @@ namespace Studyhood
         private void Login_Btn_Click(object sender, EventArgs e)
         {
             client.LoginForm LoginForm = new client.LoginForm();
+            LoginForm.Owner = this;
             LoginForm.Show();
+        }
+
+        private void close_main_form(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

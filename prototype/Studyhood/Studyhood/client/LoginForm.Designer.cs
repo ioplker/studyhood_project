@@ -30,10 +30,10 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.login_Edit = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
+            this.password_Edit = new System.Windows.Forms.MaskedTextBox();
             this.SuspendLayout();
             // 
             // label1
@@ -54,19 +54,13 @@
             this.label2.TabIndex = 1;
             this.label2.Text = "Пароль:";
             // 
-            // textBox1
+            // login_Edit
             // 
-            this.textBox1.Location = new System.Drawing.Point(66, 12);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(102, 20);
-            this.textBox1.TabIndex = 2;
-            // 
-            // textBox2
-            // 
-            this.textBox2.Location = new System.Drawing.Point(66, 38);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(102, 20);
-            this.textBox2.TabIndex = 0;
+            this.login_Edit.Location = new System.Drawing.Point(66, 12);
+            this.login_Edit.Name = "login_Edit";
+            this.login_Edit.Size = new System.Drawing.Size(102, 20);
+            this.login_Edit.TabIndex = 2;
+            this.login_Edit.Text = "admin";
             // 
             // button1
             // 
@@ -76,7 +70,7 @@
             this.button1.TabIndex = 3;
             this.button1.Text = "Войти";
             this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click_1);
+            this.button1.Click += new System.EventHandler(this.show_actionslist_form);
             // 
             // button2
             // 
@@ -86,17 +80,27 @@
             this.button2.TabIndex = 4;
             this.button2.Text = "Отмена";
             this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button1_Click);
+            this.button2.Click += new System.EventHandler(this.close_login_form);
+            // 
+            // password_Edit
+            // 
+            this.password_Edit.Location = new System.Drawing.Point(66, 38);
+            this.password_Edit.Name = "password_Edit";
+            this.password_Edit.PasswordChar = '#';
+            this.password_Edit.Size = new System.Drawing.Size(102, 20);
+            this.password_Edit.TabIndex = 5;
+            this.password_Edit.Text = "admin";
+            this.password_Edit.TextMaskFormat = System.Windows.Forms.MaskFormat.IncludePromptAndLiterals;
             // 
             // LoginForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(178, 101);
+            this.Controls.Add(this.password_Edit);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.login_Edit);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.MaximumSize = new System.Drawing.Size(186, 131);
@@ -112,9 +116,9 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox login_Edit;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.MaskedTextBox password_Edit;
     }
 }

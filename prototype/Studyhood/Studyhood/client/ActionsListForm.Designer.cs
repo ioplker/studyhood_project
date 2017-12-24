@@ -29,14 +29,14 @@
         private void InitializeComponent()
         {
             this.groupBox5 = new System.Windows.Forms.GroupBox();
-            this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.Teacher_Lessons_Btn = new System.Windows.Forms.Button();
-            this.Student_Marks_Btn = new System.Windows.Forms.Button();
-            this.Student_Notifications_Btn = new System.Windows.Forms.Button();
-            this.Student_Schedule_Btn = new System.Windows.Forms.Button();
             this.Teacher_Schedule_Btn = new System.Windows.Forms.Button();
             this.Teacher_Notifications_Btn = new System.Windows.Forms.Button();
             this.Teacher_Marks_Btn = new System.Windows.Forms.Button();
+            this.Teacher_Lessons_Btn = new System.Windows.Forms.Button();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.Student_Schedule_Btn = new System.Windows.Forms.Button();
+            this.Student_Notifications_Btn = new System.Windows.Forms.Button();
+            this.Student_Marks_Btn = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.Dispatcher_Schedule_Btn = new System.Windows.Forms.Button();
             this.Dispatcher_Analysis_Btn = new System.Windows.Forms.Button();
@@ -48,12 +48,16 @@
             this.Deanery_StudentInfo_Btn = new System.Windows.Forms.Button();
             this.Deanery_Notification_Btn = new System.Windows.Forms.Button();
             this.Close_Btn = new System.Windows.Forms.Button();
+            this.groupBox7 = new System.Windows.Forms.GroupBox();
+            this.Enrollee_Specialities_Btn = new System.Windows.Forms.Button();
+            this.Enrollee_SignIn_Btn = new System.Windows.Forms.Button();
             this.groupBox5.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.groupBox3.SuspendLayout();
             this.groupBox4.SuspendLayout();
             this.groupBox6.SuspendLayout();
+            this.groupBox7.SuspendLayout();
             this.SuspendLayout();
             // 
             // groupBox5
@@ -69,6 +73,46 @@
             this.groupBox5.TabStop = false;
             this.groupBox5.Text = "Преподаватель";
             // 
+            // Teacher_Schedule_Btn
+            // 
+            this.Teacher_Schedule_Btn.Location = new System.Drawing.Point(6, 19);
+            this.Teacher_Schedule_Btn.Name = "Teacher_Schedule_Btn";
+            this.Teacher_Schedule_Btn.Size = new System.Drawing.Size(157, 23);
+            this.Teacher_Schedule_Btn.TabIndex = 13;
+            this.Teacher_Schedule_Btn.Text = "Расписание занятий";
+            this.Teacher_Schedule_Btn.UseVisualStyleBackColor = true;
+            this.Teacher_Schedule_Btn.Click += new System.EventHandler(this.open_view_schedule_form);
+            // 
+            // Teacher_Notifications_Btn
+            // 
+            this.Teacher_Notifications_Btn.Location = new System.Drawing.Point(6, 48);
+            this.Teacher_Notifications_Btn.Name = "Teacher_Notifications_Btn";
+            this.Teacher_Notifications_Btn.Size = new System.Drawing.Size(157, 23);
+            this.Teacher_Notifications_Btn.TabIndex = 14;
+            this.Teacher_Notifications_Btn.Text = "Объявления";
+            this.Teacher_Notifications_Btn.UseVisualStyleBackColor = true;
+            this.Teacher_Notifications_Btn.Click += new System.EventHandler(this.open_view_notify_form);
+            // 
+            // Teacher_Marks_Btn
+            // 
+            this.Teacher_Marks_Btn.Location = new System.Drawing.Point(6, 106);
+            this.Teacher_Marks_Btn.Name = "Teacher_Marks_Btn";
+            this.Teacher_Marks_Btn.Size = new System.Drawing.Size(157, 23);
+            this.Teacher_Marks_Btn.TabIndex = 15;
+            this.Teacher_Marks_Btn.Text = "Поставить оценку";
+            this.Teacher_Marks_Btn.UseVisualStyleBackColor = true;
+            this.Teacher_Marks_Btn.Click += new System.EventHandler(this.open_add_mark_form);
+            // 
+            // Teacher_Lessons_Btn
+            // 
+            this.Teacher_Lessons_Btn.Location = new System.Drawing.Point(6, 77);
+            this.Teacher_Lessons_Btn.Name = "Teacher_Lessons_Btn";
+            this.Teacher_Lessons_Btn.Size = new System.Drawing.Size(157, 23);
+            this.Teacher_Lessons_Btn.TabIndex = 13;
+            this.Teacher_Lessons_Btn.Text = "Отметить занятие";
+            this.Teacher_Lessons_Btn.UseVisualStyleBackColor = true;
+            this.Teacher_Lessons_Btn.Click += new System.EventHandler(this.open_mark_lesson_form);
+            // 
             // groupBox2
             // 
             this.groupBox2.Controls.Add(this.Student_Schedule_Btn);
@@ -81,23 +125,15 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Студент";
             // 
-            // Teacher_Lessons_Btn
+            // Student_Schedule_Btn
             // 
-            this.Teacher_Lessons_Btn.Location = new System.Drawing.Point(6, 77);
-            this.Teacher_Lessons_Btn.Name = "Teacher_Lessons_Btn";
-            this.Teacher_Lessons_Btn.Size = new System.Drawing.Size(157, 23);
-            this.Teacher_Lessons_Btn.TabIndex = 13;
-            this.Teacher_Lessons_Btn.Text = "Занятия";
-            this.Teacher_Lessons_Btn.UseVisualStyleBackColor = true;
-            // 
-            // Student_Marks_Btn
-            // 
-            this.Student_Marks_Btn.Location = new System.Drawing.Point(6, 77);
-            this.Student_Marks_Btn.Name = "Student_Marks_Btn";
-            this.Student_Marks_Btn.Size = new System.Drawing.Size(157, 23);
-            this.Student_Marks_Btn.TabIndex = 12;
-            this.Student_Marks_Btn.Text = "Оценки";
-            this.Student_Marks_Btn.UseVisualStyleBackColor = true;
+            this.Student_Schedule_Btn.Location = new System.Drawing.Point(6, 19);
+            this.Student_Schedule_Btn.Name = "Student_Schedule_Btn";
+            this.Student_Schedule_Btn.Size = new System.Drawing.Size(157, 23);
+            this.Student_Schedule_Btn.TabIndex = 10;
+            this.Student_Schedule_Btn.Text = "Расписание занятий";
+            this.Student_Schedule_Btn.UseVisualStyleBackColor = true;
+            this.Student_Schedule_Btn.Click += new System.EventHandler(this.open_view_schedule_form);
             // 
             // Student_Notifications_Btn
             // 
@@ -107,42 +143,17 @@
             this.Student_Notifications_Btn.TabIndex = 11;
             this.Student_Notifications_Btn.Text = "Объявления";
             this.Student_Notifications_Btn.UseVisualStyleBackColor = true;
+            this.Student_Notifications_Btn.Click += new System.EventHandler(this.open_view_notify_form);
             // 
-            // Student_Schedule_Btn
+            // Student_Marks_Btn
             // 
-            this.Student_Schedule_Btn.Location = new System.Drawing.Point(6, 19);
-            this.Student_Schedule_Btn.Name = "Student_Schedule_Btn";
-            this.Student_Schedule_Btn.Size = new System.Drawing.Size(157, 23);
-            this.Student_Schedule_Btn.TabIndex = 10;
-            this.Student_Schedule_Btn.Text = "Расписание занятий";
-            this.Student_Schedule_Btn.UseVisualStyleBackColor = true;
-            // 
-            // Teacher_Schedule_Btn
-            // 
-            this.Teacher_Schedule_Btn.Location = new System.Drawing.Point(6, 19);
-            this.Teacher_Schedule_Btn.Name = "Teacher_Schedule_Btn";
-            this.Teacher_Schedule_Btn.Size = new System.Drawing.Size(157, 23);
-            this.Teacher_Schedule_Btn.TabIndex = 13;
-            this.Teacher_Schedule_Btn.Text = "Расписание занятий";
-            this.Teacher_Schedule_Btn.UseVisualStyleBackColor = true;
-            // 
-            // Teacher_Notifications_Btn
-            // 
-            this.Teacher_Notifications_Btn.Location = new System.Drawing.Point(6, 48);
-            this.Teacher_Notifications_Btn.Name = "Teacher_Notifications_Btn";
-            this.Teacher_Notifications_Btn.Size = new System.Drawing.Size(157, 23);
-            this.Teacher_Notifications_Btn.TabIndex = 14;
-            this.Teacher_Notifications_Btn.Text = "Объявления деканата";
-            this.Teacher_Notifications_Btn.UseVisualStyleBackColor = true;
-            // 
-            // Teacher_Marks_Btn
-            // 
-            this.Teacher_Marks_Btn.Location = new System.Drawing.Point(6, 106);
-            this.Teacher_Marks_Btn.Name = "Teacher_Marks_Btn";
-            this.Teacher_Marks_Btn.Size = new System.Drawing.Size(157, 23);
-            this.Teacher_Marks_Btn.TabIndex = 15;
-            this.Teacher_Marks_Btn.Text = "Оценки";
-            this.Teacher_Marks_Btn.UseVisualStyleBackColor = true;
+            this.Student_Marks_Btn.Location = new System.Drawing.Point(6, 77);
+            this.Student_Marks_Btn.Name = "Student_Marks_Btn";
+            this.Student_Marks_Btn.Size = new System.Drawing.Size(157, 23);
+            this.Student_Marks_Btn.TabIndex = 12;
+            this.Student_Marks_Btn.Text = "Просмотреть оценки";
+            this.Student_Marks_Btn.UseVisualStyleBackColor = true;
+            this.Student_Marks_Btn.Click += new System.EventHandler(this.open_student_marks_form);
             // 
             // groupBox1
             // 
@@ -164,6 +175,7 @@
             this.Dispatcher_Schedule_Btn.TabIndex = 15;
             this.Dispatcher_Schedule_Btn.Text = "Редактировать расписание";
             this.Dispatcher_Schedule_Btn.UseVisualStyleBackColor = true;
+            this.Dispatcher_Schedule_Btn.Click += new System.EventHandler(this.open_edit_schedule_form);
             // 
             // Dispatcher_Analysis_Btn
             // 
@@ -173,6 +185,7 @@
             this.Dispatcher_Analysis_Btn.TabIndex = 16;
             this.Dispatcher_Analysis_Btn.Text = "Анализ нагрузки";
             this.Dispatcher_Analysis_Btn.UseVisualStyleBackColor = true;
+            this.Dispatcher_Analysis_Btn.Click += new System.EventHandler(this.open_analysis_form);
             // 
             // groupBox3
             // 
@@ -193,6 +206,7 @@
             this.ClientMgr_EnrolleeRequests_Btn.TabIndex = 15;
             this.ClientMgr_EnrolleeRequests_Btn.Text = "Заявки абитуриентов";
             this.ClientMgr_EnrolleeRequests_Btn.UseVisualStyleBackColor = true;
+            this.ClientMgr_EnrolleeRequests_Btn.Click += new System.EventHandler(this.open_add_enrolle_form);
             // 
             // groupBox4
             // 
@@ -211,8 +225,9 @@
             this.ProgramMgr_EditPlan_Btn.Name = "ProgramMgr_EditPlan_Btn";
             this.ProgramMgr_EditPlan_Btn.Size = new System.Drawing.Size(157, 23);
             this.ProgramMgr_EditPlan_Btn.TabIndex = 15;
-            this.ProgramMgr_EditPlan_Btn.Text = "Редактировать учеб план";
+            this.ProgramMgr_EditPlan_Btn.Text = "Редактировать учеб. план";
             this.ProgramMgr_EditPlan_Btn.UseVisualStyleBackColor = true;
+            this.ProgramMgr_EditPlan_Btn.Click += new System.EventHandler(this.open_plan_form);
             // 
             // groupBox6
             // 
@@ -234,6 +249,7 @@
             this.Deanery_StudentInfo_Btn.TabIndex = 15;
             this.Deanery_StudentInfo_Btn.Text = "Информация о студенте";
             this.Deanery_StudentInfo_Btn.UseVisualStyleBackColor = true;
+            this.Deanery_StudentInfo_Btn.Click += new System.EventHandler(this.open_student_info_form);
             // 
             // Deanery_Notification_Btn
             // 
@@ -241,8 +257,9 @@
             this.Deanery_Notification_Btn.Name = "Deanery_Notification_Btn";
             this.Deanery_Notification_Btn.Size = new System.Drawing.Size(157, 23);
             this.Deanery_Notification_Btn.TabIndex = 16;
-            this.Deanery_Notification_Btn.Text = "Объявления";
+            this.Deanery_Notification_Btn.Text = "Сделать объявление";
             this.Deanery_Notification_Btn.UseVisualStyleBackColor = true;
+            this.Deanery_Notification_Btn.Click += new System.EventHandler(this.open_add_notify_form);
             // 
             // Close_Btn
             // 
@@ -252,13 +269,46 @@
             this.Close_Btn.TabIndex = 23;
             this.Close_Btn.Text = "Закрыть";
             this.Close_Btn.UseVisualStyleBackColor = true;
-            this.Close_Btn.Click += new System.EventHandler(this.Close_Btn_Click);
+            this.Close_Btn.Click += new System.EventHandler(this.close_actions_list_form);
+            // 
+            // groupBox7
+            // 
+            this.groupBox7.Controls.Add(this.Enrollee_Specialities_Btn);
+            this.groupBox7.Controls.Add(this.Enrollee_SignIn_Btn);
+            this.groupBox7.Location = new System.Drawing.Point(187, 97);
+            this.groupBox7.Name = "groupBox7";
+            this.groupBox7.Size = new System.Drawing.Size(169, 79);
+            this.groupBox7.TabIndex = 24;
+            this.groupBox7.TabStop = false;
+            this.groupBox7.Text = "Абитуриент";
+            // 
+            // Enrollee_Specialities_Btn
+            // 
+            this.Enrollee_Specialities_Btn.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.Enrollee_Specialities_Btn.Location = new System.Drawing.Point(6, 19);
+            this.Enrollee_Specialities_Btn.Name = "Enrollee_Specialities_Btn";
+            this.Enrollee_Specialities_Btn.Size = new System.Drawing.Size(157, 23);
+            this.Enrollee_Specialities_Btn.TabIndex = 15;
+            this.Enrollee_Specialities_Btn.Text = "Просмотреть направления";
+            this.Enrollee_Specialities_Btn.UseVisualStyleBackColor = true;
+            this.Enrollee_Specialities_Btn.Click += new System.EventHandler(this.open_specialities_list_form);
+            // 
+            // Enrollee_SignIn_Btn
+            // 
+            this.Enrollee_SignIn_Btn.Location = new System.Drawing.Point(6, 48);
+            this.Enrollee_SignIn_Btn.Name = "Enrollee_SignIn_Btn";
+            this.Enrollee_SignIn_Btn.Size = new System.Drawing.Size(157, 23);
+            this.Enrollee_SignIn_Btn.TabIndex = 16;
+            this.Enrollee_SignIn_Btn.Text = "Записаться в группу";
+            this.Enrollee_SignIn_Btn.UseVisualStyleBackColor = true;
+            this.Enrollee_SignIn_Btn.Click += new System.EventHandler(this.open_enrollee_sign_in_form);
             // 
             // ActionsListForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(535, 265);
+            this.Controls.Add(this.groupBox7);
             this.Controls.Add(this.Close_Btn);
             this.Controls.Add(this.groupBox6);
             this.Controls.Add(this.groupBox4);
@@ -276,6 +326,7 @@
             this.groupBox3.ResumeLayout(false);
             this.groupBox4.ResumeLayout(false);
             this.groupBox6.ResumeLayout(false);
+            this.groupBox7.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -302,6 +353,9 @@
         private System.Windows.Forms.Button Deanery_StudentInfo_Btn;
         private System.Windows.Forms.Button Deanery_Notification_Btn;
         private System.Windows.Forms.Button Close_Btn;
+        private System.Windows.Forms.GroupBox groupBox7;
+        private System.Windows.Forms.Button Enrollee_Specialities_Btn;
+        private System.Windows.Forms.Button Enrollee_SignIn_Btn;
 
     }
 }

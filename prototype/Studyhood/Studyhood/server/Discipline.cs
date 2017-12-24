@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Studyhood
+namespace Studyhood.server
 {
     class Discipline
     {

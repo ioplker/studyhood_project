@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Studyhood
+namespace Studyhood.server
 {
-    class Professor
+    class Notify
     {
         public Guid Id { get; set; }
-        public String FIO { get; set; }
-        public String Position { get; set; }
+        public String Department { get; set; }
+        public String Content { get; set; }
     }
 }
