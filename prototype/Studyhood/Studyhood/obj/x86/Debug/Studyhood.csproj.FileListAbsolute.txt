@@ -23,3 +23,4 @@ E:\curr_proj_links\1 семестр\ТРПО\новое\Studyhood_project\protot
 E:\curr_proj_links\1 семестр\ТРПО\новое\Studyhood_project\prototype\Studyhood\Studyhood\obj\x86\Debug\Studyhood.client.PresentListForm.resources
 E:\curr_proj_links\1 семестр\ТРПО\новое\Studyhood_project\prototype\Studyhood\Studyhood\bin\Debug\LiteDB.dll
 E:\curr_proj_links\1 семестр\ТРПО\новое\Studyhood_project\prototype\Studyhood\Studyhood\obj\x86\Debug\Studyhood.client.AnalysisForm.resources
+E:\curr_proj_links\1 семестр\ТРПО\новое\Studyhood_project\prototype\Studyhood\Studyhood\obj\x86\Debug\Studyhood.client.MainPage.resources

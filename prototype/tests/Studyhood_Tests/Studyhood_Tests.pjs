@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="12.0" key="{ED8D4142-EE24-4F82-9A29-09DB3FA0C8C6}">
+	<children>
+		<child name="Studyhood_Tests" key="{111BEC9A-D18B-452F-A9F1-44883C445F9F}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="Studyhood_Tests\Studyhood_Tests.mds" />
+		</child>
+	</children>
+	<folders />
+	<testItems key="{B99D3ABD-BE6A-4DC6-A050-5F96012A6E05}">
+		<children>
+			<testItem key="{111BEC9A-D18B-452F-A9F1-44883C445F9F}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{A193CE38-1963-436D-A8F1-0A5C05568F93}">
+		<data Version="3" />
+	</variables>
+	<analysis key="{E81FE920-06E5-419C-86EF-EF0B3ACDA289}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}" />
+</Root>

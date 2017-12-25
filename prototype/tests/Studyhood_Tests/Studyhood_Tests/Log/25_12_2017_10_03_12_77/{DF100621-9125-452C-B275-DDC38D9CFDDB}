@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="message 3">
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value="Picture1.png"/>
+			<Prp name="type" type="I" value="3"/>
+			<Prp name="line no" type="I" value="3"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="stack end" type="I" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The window is overlapped by the 'PlanForm' window."/>
+			<Prp name="date" type="D" value="43094.4190645255"/>
+			<Prp name="stack beginning" type="I" value="0"/>
+			<Prp name="id" type="I" value="3"/>
+			<Prp name="remarks" type="S" value="Sys.Process(&quot;Studyhood&quot;).WinFormsObject(&quot;PlanForm&quot;).WinFormsObject(&quot;Plan_Table&quot;)"/>
+			<Prp name="as html" type="B" value="0"/>
+		</Node>
+		<Node name="message 4">
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value="Picture2.png"/>
+			<Prp name="type" type="I" value="3"/>
+			<Prp name="line no" type="I" value="3"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="stack end" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="2"/>
+			<Prp name="message" type="S" value="There was an attempt to perform an action at point (600, 361), which is overlapped by another window."/>
+			<Prp name="date" type="D" value="43094.4190674537"/>
+			<Prp name="stack beginning" type="I" value="1"/>
+			<Prp name="id" type="I" value="4"/>
+			<Prp name="remarks" type="S" value="See the previous overlapping window message for details.&#xA;&#xA;Tested object:&#xA;Aliases.Studyhood.ActionsListForm.groupBox4.ProgramMgr_EditPlan_Btn&#xA;(Sys.Process(&quot;Studyhood&quot;).WinFormsObject(&quot;ActionsListForm&quot;).WinFormsObject(&quot;groupBox4&quot;).WinFormsObject(&quot;ProgramMgr_EditPlan_Btn&quot;))"/>
+			<Prp name="as html" type="B" value="0"/>
+		</Node>
+		<Node name="stack"/>
+		<Node name="units">
+			<Prp name="unit 0" type="S" value="{4A8D77CE-A159-4790-AE4C-D1925332701F}"/>
+		</Node>
+		<Node name="message 2">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="object left" type="I" value="16"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="click point y" type="I" value="97"/>
+					<Prp name="object right" type="I" value="91"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.LoginForm.button1"/>
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="38"/>
+					<Prp name="object top" type="I" value="90"/>
+					<Prp name="datetime" type="D" value="43094.1205671296"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="tcvi1596326510886.png"/>
+					<Prp name="object bottom" type="I" value="113"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value=""/>
+					<Prp name="object bottom" type="I" value="-1"/>
+				</Node>
+				<Node name="current">
+					<Prp name="object left" type="I" value="16"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="click point y" type="I" value="101"/>
+					<Prp name="object right" type="I" value="91"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.LoginForm.button1"/>
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="53"/>
+					<Prp name="object top" type="I" value="90"/>
+					<Prp name="datetime" type="D" value="43094.1272689352"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage1.png"/>
+					<Prp name="object bottom" type="I" value="113"/>
+				</Node>
+			</Node>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="line no" type="I" value="2"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="date" type="D" value="43094.4189386111"/>
+			<Prp name="id" type="I" value="2"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.Studyhood.LoginForm.button1&#xA;(Sys.Process(&quot;Studyhood&quot;).WinFormsObject(&quot;LoginForm&quot;).WinFormsObject(&quot;button1&quot;))"/>
+			<Prp name="as html" type="B" value="0"/>
+		</Node>
+		<Node name="item 1">
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="3"/>
+			<Prp name="stacktext" type="S" value="Plan_Test()"/>
+		</Node>
+		<Node name="child data"/>
+		<Node name="message 1">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="object left" type="I" value="568"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="click point y" type="I" value="42"/>
+					<Prp name="object right" type="I" value="643"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.MainPage.Login_Btn"/>
+					<Prp name="line #" type="I" value="1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="620"/>
+					<Prp name="object top" type="I" value="38"/>
+					<Prp name="datetime" type="D" value="43094.1205439815"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="tcvi1596137510883.png"/>
+					<Prp name="object bottom" type="I" value="61"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage0_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+				</Node>
+				<Node name="current">
+					<Prp name="object left" type="I" value="568"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="click point y" type="I" value="49"/>
+					<Prp name="object right" type="I" value="643"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.MainPage.Login_Btn"/>
+					<Prp name="line #" type="I" value="1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="605"/>
+					<Prp name="object top" type="I" value="38"/>
+					<Prp name="datetime" type="D" value="43094.1272639352"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage0.png"/>
+					<Prp name="object bottom" type="I" value="61"/>
+				</Node>
+			</Node>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="line no" type="I" value="1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="date" type="D" value="43094.4189321181"/>
+			<Prp name="id" type="I" value="1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.Studyhood.MainPage.Login_Btn&#xA;(Sys.Process(&quot;Studyhood&quot;).WinFormsObject(&quot;MainPage&quot;).WinFormsObject(&quot;Login_Btn&quot;))"/>
+			<Prp name="as html" type="B" value="0"/>
+		</Node>
+		<Node name="item 0">
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="3"/>
+			<Prp name="stacktext" type="S" value="Plan_Test()"/>
+		</Node>
+		<Node name="message 0">
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="2"/>
+			<Prp name="line no" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="500"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="There is (are) 1 running instance(s) of &quot;E:\curr_proj_links\1 семестр\ТРПО\новое\Studyhood_project\prototype\Studyhood\Studyhood\bin\Debug\Studyhood.exe&quot;. New instances will not be launched."/>
+			<Prp name="date" type="D" value="43094.4189118519"/>
+			<Prp name="id" type="I" value="0"/>
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="as html" type="B" value="0"/>
+		</Node>
+		<Node name="message 5">
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value="Picture3.png"/>
+			<Prp name="type" type="I" value="3"/>
+			<Prp name="line no" type="I" value="3"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="stack end" type="I" value="2"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="2"/>
+			<Prp name="message" type="S" value="The test run has stopped because the &quot;Stop on Error&quot; setting is enabled."/>
+			<Prp name="date" type="D" value="43094.4190694907"/>
+			<Prp name="stack beginning" type="I" value="2"/>
+			<Prp name="id" type="I" value="5"/>
+			<Prp name="remarks" type="S" value="&lt;html&gt;&lt;body&gt;&lt;p&gt;The test execution has stopped because --&lt;/p&gt;&lt;ul&gt;&lt;li&gt;An error message was posted to the log and&lt;/li&gt;&lt;li&gt;The &lt;a href=&quot;aqa-help://6090&quot;&gt;Stop on Error&lt;/a&gt; project property is enabled.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; If you don't want the test to stop on errors, disable this property (&lt;b&gt;Project Editor &amp;rArr; Properties &amp;rArr; Playback&lt;/b&gt;), or change your test commands so that they do not post errors to the log automatically. For instance, if some window or process was not found, use the WaitWindow, WaitProcess or similar methods to obtain the desired object.&lt;/p&gt;&lt;a href=&quot;aqa-help://2207&quot;&gt;Read More&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="as html" type="B" value="-1"/>
+		</Node>
+		<Node name="item 2">
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="3"/>
+			<Prp name="stacktext" type="S" value="Plan_Test()"/>
+		</Node>
+		<Prp name="status" type="I" value="2"/>
+	</Node>
+</Nodes>

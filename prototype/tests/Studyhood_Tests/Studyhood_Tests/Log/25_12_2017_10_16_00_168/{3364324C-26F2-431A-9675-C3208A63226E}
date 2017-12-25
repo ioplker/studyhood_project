@@ -1,0 +1,2237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="message 5">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage6_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="634"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Discipline_Combo"/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="78"/>
+					<Prp name="datetime" type="D" value="43094.1362343287"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage6.png"/>
+					<Prp name="object bottom" type="I" value="99"/>
+					<Prp name="object left" type="I" value="238"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="original">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-76"/>
+					<Prp name="object right" type="I" value="634"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Discipline_Combo"/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-76"/>
+					<Prp name="object top" type="I" value="78"/>
+					<Prp name="datetime" type="D" value="43094.1331365741"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="tcvi16850859356023.png"/>
+					<Prp name="object bottom" type="I" value="99"/>
+					<Prp name="object left" type="I" value="238"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+			</Node>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="line no" type="I" value="5"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.Studyhood.PlanForm.Discipline_Combo&#xA;(Sys.Process(&quot;Studyhood&quot;).WinFormsObject(&quot;PlanForm&quot;).WinFormsObject(&quot;Discipline_Combo&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43094.4279038657"/>
+			<Prp name="id" type="I" value="5"/>
+			<Prp name="message" type="S" value="The combo box item 'Вычислительная математика' was selected."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 16">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="16"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage23_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="148"/>
+					<Prp name="object right" type="I" value="634"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Plan_Table"/>
+					<Prp name="line #" type="I" value="16"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="347"/>
+					<Prp name="object top" type="I" value="134"/>
+					<Prp name="datetime" type="D" value="43094.1363857986"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage23.png"/>
+					<Prp name="object bottom" type="I" value="422"/>
+					<Prp name="object left" type="I" value="16"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="original">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="148"/>
+					<Prp name="object right" type="I" value="634"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Plan_Table"/>
+					<Prp name="line #" type="I" value="16"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="347"/>
+					<Prp name="object top" type="I" value="134"/>
+					<Prp name="datetime" type="D" value="43094.1335532407"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="tcvi16874593356061.png"/>
+					<Prp name="object bottom" type="I" value="422"/>
+					<Prp name="object left" type="I" value="16"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+			</Node>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="line no" type="I" value="16"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="A click at point (189, 13) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.Studyhood.PlanForm.Plan_Table&#xA;(Sys.Process(&quot;Studyhood&quot;).WinFormsObject(&quot;PlanForm&quot;).WinFormsObject(&quot;Plan_Table&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43094.4280575926"/>
+			<Prp name="id" type="I" value="16"/>
+			<Prp name="message" type="S" value="The grid column header 'Специальность' was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="stack"/>
+		<Node name="message 3">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value=""/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="211"/>
+					<Prp name="object right" type="I" value="529"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.ActionsListForm.groupBox4.ProgramMgr_EditPlan_Btn"/>
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="450"/>
+					<Prp name="object top" type="I" value="200"/>
+					<Prp name="datetime" type="D" value="43094.1362073032"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage2.png"/>
+					<Prp name="object bottom" type="I" value="223"/>
+					<Prp name="object left" type="I" value="372"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="original">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="213"/>
+					<Prp name="object right" type="I" value="529"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.ActionsListForm.groupBox4.ProgramMgr_EditPlan_Btn"/>
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="393"/>
+					<Prp name="object top" type="I" value="200"/>
+					<Prp name="datetime" type="D" value="43094.1330092593"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="tcvi1684323435609.png"/>
+					<Prp name="object bottom" type="I" value="223"/>
+					<Prp name="object left" type="I" value="372"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+			</Node>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="line no" type="I" value="3"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.Studyhood.ActionsListForm.groupBox4.ProgramMgr_EditPlan_Btn&#xA;(Sys.Process(&quot;Studyhood&quot;).WinFormsObject(&quot;ActionsListForm&quot;).WinFormsObject(&quot;groupBox4&quot;).WinFormsObject(&quot;ProgramMgr_EditPlan_Btn&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43094.4278754861"/>
+			<Prp name="id" type="I" value="3"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 14">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="14"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage21_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="134"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Semester_Combo"/>
+					<Prp name="line #" type="I" value="14"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="78"/>
+					<Prp name="datetime" type="D" value="43094.1363574769"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage21.png"/>
+					<Prp name="object bottom" type="I" value="99"/>
+					<Prp name="object left" type="I" value="76"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="original">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-76"/>
+					<Prp name="object right" type="I" value="134"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Semester_Combo"/>
+					<Prp name="line #" type="I" value="14"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-76"/>
+					<Prp name="object top" type="I" value="78"/>
+					<Prp name="datetime" type="D" value="43094.1334259259"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="tcvi16867625356059.png"/>
+					<Prp name="object bottom" type="I" value="99"/>
+					<Prp name="object left" type="I" value="76"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+			</Node>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="line no" type="I" value="14"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.Studyhood.PlanForm.Semester_Combo&#xA;(Sys.Process(&quot;Studyhood&quot;).WinFormsObject(&quot;PlanForm&quot;).WinFormsObject(&quot;Semester_Combo&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43094.4280275"/>
+			<Prp name="id" type="I" value="14"/>
+			<Prp name="message" type="S" value="The combo box item '5' was selected."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 32">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="32"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage40_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="659"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.MainPage"/>
+					<Prp name="line #" type="I" value="32"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="43094.1365971412"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage40.png"/>
+					<Prp name="object bottom" type="I" value="449"/>
+					<Prp name="object left" type="I" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="original">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="659"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.MainPage"/>
+					<Prp name="line #" type="I" value="32"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="43094.1353703704"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="tcvi16979421356091.png"/>
+					<Prp name="object bottom" type="I" value="449"/>
+					<Prp name="object left" type="I" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+			</Node>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="line no" type="I" value="32"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.Studyhood.MainPage&#xA;(Sys.Process(&quot;Studyhood&quot;).WinFormsObject(&quot;MainPage&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43094.428266956"/>
+			<Prp name="id" type="I" value="32"/>
+			<Prp name="message" type="S" value="The 'Управление ВУЗом &quot;Studyhood&quot;' window was closed."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 26">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="26"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage35_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="164"/>
+					<Prp name="object right" type="I" value="634"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Plan_Table"/>
+					<Prp name="line #" type="I" value="26"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="268"/>
+					<Prp name="object top" type="I" value="134"/>
+					<Prp name="datetime" type="D" value="43094.1365011458"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage35.png"/>
+					<Prp name="object bottom" type="I" value="422"/>
+					<Prp name="object left" type="I" value="16"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="original">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="157"/>
+					<Prp name="object right" type="I" value="634"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Plan_Table"/>
+					<Prp name="line #" type="I" value="26"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="222"/>
+					<Prp name="object top" type="I" value="134"/>
+					<Prp name="datetime" type="D" value="43094.134837963"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="tcvi16948812356084.png"/>
+					<Prp name="object bottom" type="I" value="422"/>
+					<Prp name="object left" type="I" value="16"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+			</Node>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="line no" type="I" value="26"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="A click with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.Studyhood.PlanForm.Plan_Table&#xA;(Sys.Process(&quot;Studyhood&quot;).WinFormsObject(&quot;PlanForm&quot;).WinFormsObject(&quot;Plan_Table&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43094.4281707292"/>
+			<Prp name="id" type="I" value="26"/>
+			<Prp name="message" type="S" value="The grid cell (0, 'Специальность') was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 23">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="23"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage32_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="186"/>
+					<Prp name="object right" type="I" value="634"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Plan_Table"/>
+					<Prp name="line #" type="I" value="23"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="268"/>
+					<Prp name="object top" type="I" value="134"/>
+					<Prp name="datetime" type="D" value="43094.1364808912"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage32.png"/>
+					<Prp name="object bottom" type="I" value="422"/>
+					<Prp name="object left" type="I" value="16"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="original">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="190"/>
+					<Prp name="object right" type="I" value="634"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Plan_Table"/>
+					<Prp name="line #" type="I" value="23"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="261"/>
+					<Prp name="object top" type="I" value="134"/>
+					<Prp name="datetime" type="D" value="43094.1347685185"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="tcvi16945015356080.png"/>
+					<Prp name="object bottom" type="I" value="422"/>
+					<Prp name="object left" type="I" value="16"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+			</Node>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="line no" type="I" value="23"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="A click with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.Studyhood.PlanForm.Plan_Table&#xA;(Sys.Process(&quot;Studyhood&quot;).WinFormsObject(&quot;PlanForm&quot;).WinFormsObject(&quot;Plan_Table&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43094.4281500694"/>
+			<Prp name="id" type="I" value="23"/>
+			<Prp name="message" type="S" value="The grid cell (1, 'Специальность') was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 27">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="27"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage36_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="116"/>
+					<Prp name="object right" type="I" value="172"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Remove_Btn"/>
+					<Prp name="line #" type="I" value="27"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="134"/>
+					<Prp name="object top" type="I" value="105"/>
+					<Prp name="datetime" type="D" value="43094.1365057986"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage36.png"/>
+					<Prp name="object bottom" type="I" value="128"/>
+					<Prp name="object left" type="I" value="97"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="original">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="116"/>
+					<Prp name="object right" type="I" value="172"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Remove_Btn"/>
+					<Prp name="line #" type="I" value="27"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="154"/>
+					<Prp name="object top" type="I" value="105"/>
+					<Prp name="datetime" type="D" value="43094.134849537"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="tcvi16949500356085.png"/>
+					<Prp name="object bottom" type="I" value="128"/>
+					<Prp name="object left" type="I" value="97"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+			</Node>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="line no" type="I" value="27"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.Studyhood.PlanForm.Remove_Btn&#xA;(Sys.Process(&quot;Studyhood&quot;).WinFormsObject(&quot;PlanForm&quot;).WinFormsObject(&quot;Remove_Btn&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43094.428177662"/>
+			<Prp name="id" type="I" value="27"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 12">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="12"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage17_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="116"/>
+					<Prp name="object right" type="I" value="91"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Add_Btn"/>
+					<Prp name="line #" type="I" value="12"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="53"/>
+					<Prp name="object top" type="I" value="105"/>
+					<Prp name="datetime" type="D" value="43094.1363383796"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage17.png"/>
+					<Prp name="object bottom" type="I" value="128"/>
+					<Prp name="object left" type="I" value="16"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="original">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="110"/>
+					<Prp name="object right" type="I" value="91"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Add_Btn"/>
+					<Prp name="line #" type="I" value="12"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="52"/>
+					<Prp name="object top" type="I" value="105"/>
+					<Prp name="datetime" type="D" value="43094.1333564815"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="tcvi16863359356048.png"/>
+					<Prp name="object bottom" type="I" value="128"/>
+					<Prp name="object left" type="I" value="16"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+			</Node>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="line no" type="I" value="12"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.Studyhood.PlanForm.Add_Btn&#xA;(Sys.Process(&quot;Studyhood&quot;).WinFormsObject(&quot;PlanForm&quot;).WinFormsObject(&quot;Add_Btn&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43094.4280079398"/>
+			<Prp name="id" type="I" value="12"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 30">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="30"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage39_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="138"/>
+					<Prp name="object right" type="I" value="634"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Plan_Table"/>
+					<Prp name="line #" type="I" value="30"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="468"/>
+					<Prp name="object top" type="I" value="134"/>
+					<Prp name="datetime" type="D" value="43094.1365525694"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage39.png"/>
+					<Prp name="object bottom" type="I" value="422"/>
+					<Prp name="object left" type="I" value="16"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="original">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="138"/>
+					<Prp name="object right" type="I" value="634"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Plan_Table"/>
+					<Prp name="line #" type="I" value="30"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="468"/>
+					<Prp name="object top" type="I" value="134"/>
+					<Prp name="datetime" type="D" value="43094.1349768518"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="tcvi16956859356089.png"/>
+					<Prp name="object bottom" type="I" value="422"/>
+					<Prp name="object left" type="I" value="16"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+			</Node>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="line no" type="I" value="30"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="A click at point (35, 3) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.Studyhood.PlanForm.Plan_Table&#xA;(Sys.Process(&quot;Studyhood&quot;).WinFormsObject(&quot;PlanForm&quot;).WinFormsObject(&quot;Plan_Table&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43094.4282220833"/>
+			<Prp name="id" type="I" value="30"/>
+			<Prp name="message" type="S" value="The grid column header 'Дисциплина' was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="child data"/>
+		<Node name="message 10">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="10"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage14_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="116"/>
+					<Prp name="object right" type="I" value="91"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Add_Btn"/>
+					<Prp name="line #" type="I" value="10"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="53"/>
+					<Prp name="object top" type="I" value="105"/>
+					<Prp name="datetime" type="D" value="43094.1362959028"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage14.png"/>
+					<Prp name="object bottom" type="I" value="128"/>
+					<Prp name="object left" type="I" value="16"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="original">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="110"/>
+					<Prp name="object right" type="I" value="91"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Add_Btn"/>
+					<Prp name="line #" type="I" value="10"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="51"/>
+					<Prp name="object top" type="I" value="105"/>
+					<Prp name="datetime" type="D" value="43094.133275463"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="tcvi16858625356042.png"/>
+					<Prp name="object bottom" type="I" value="128"/>
+					<Prp name="object left" type="I" value="16"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+			</Node>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="line no" type="I" value="10"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.Studyhood.PlanForm.Add_Btn&#xA;(Sys.Process(&quot;Studyhood&quot;).WinFormsObject(&quot;PlanForm&quot;).WinFormsObject(&quot;Add_Btn&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43094.4279790509"/>
+			<Prp name="id" type="I" value="10"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 28">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="28"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage37_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="650"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm"/>
+					<Prp name="line #" type="I" value="28"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="43094.136521088"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage37.png"/>
+					<Prp name="object bottom" type="I" value="438"/>
+					<Prp name="object left" type="I" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="original">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="650"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm"/>
+					<Prp name="line #" type="I" value="28"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="0"/>
+					<Prp name="datetime" type="D" value="43094.1348958333"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="tcvi16952078356086.png"/>
+					<Prp name="object bottom" type="I" value="438"/>
+					<Prp name="object left" type="I" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+			</Node>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="line no" type="I" value="28"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.Studyhood.PlanForm&#xA;(Sys.Process(&quot;Studyhood&quot;).WinFormsObject(&quot;PlanForm&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43094.4281905208"/>
+			<Prp name="id" type="I" value="28"/>
+			<Prp name="message" type="S" value="The 'PlanForm' window was closed."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 21">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="21"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage31_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="116"/>
+					<Prp name="object right" type="I" value="91"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Add_Btn"/>
+					<Prp name="line #" type="I" value="21"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="53"/>
+					<Prp name="object top" type="I" value="105"/>
+					<Prp name="datetime" type="D" value="43094.1364304861"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage31.png"/>
+					<Prp name="object bottom" type="I" value="128"/>
+					<Prp name="object left" type="I" value="16"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="original">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="119"/>
+					<Prp name="object right" type="I" value="91"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Add_Btn"/>
+					<Prp name="line #" type="I" value="21"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="58"/>
+					<Prp name="object top" type="I" value="105"/>
+					<Prp name="datetime" type="D" value="43094.133900463"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="tcvi16894781356079.png"/>
+					<Prp name="object bottom" type="I" value="128"/>
+					<Prp name="object left" type="I" value="16"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+			</Node>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="line no" type="I" value="21"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.Studyhood.PlanForm.Add_Btn&#xA;(Sys.Process(&quot;Studyhood&quot;).WinFormsObject(&quot;PlanForm&quot;).WinFormsObject(&quot;Add_Btn&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43094.4280991319"/>
+			<Prp name="id" type="I" value="21"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 0">
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="line no" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="The process ID is 4708."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43094.4278242824"/>
+			<Prp name="id" type="I" value="0"/>
+			<Prp name="message" type="S" value="The application &quot;E:\curr_proj_links\1 семестр\ТРПО\новое\Studyhood_project\prototype\Studyhood\Studyhood\bin\Debug\Studyhood.exe&quot; started."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 2">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value=""/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="101"/>
+					<Prp name="object right" type="I" value="91"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.LoginForm.button1"/>
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="53"/>
+					<Prp name="object top" type="I" value="90"/>
+					<Prp name="datetime" type="D" value="43094.1361971296"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage1.png"/>
+					<Prp name="object bottom" type="I" value="113"/>
+					<Prp name="object left" type="I" value="16"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="original">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="90"/>
+					<Prp name="object right" type="I" value="91"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.LoginForm.button1"/>
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="75"/>
+					<Prp name="object top" type="I" value="90"/>
+					<Prp name="datetime" type="D" value="43094.132962963"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="tcvi1684117135607.png"/>
+					<Prp name="object bottom" type="I" value="113"/>
+					<Prp name="object left" type="I" value="16"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+			</Node>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="line no" type="I" value="2"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.Studyhood.LoginForm.button1&#xA;(Sys.Process(&quot;Studyhood&quot;).WinFormsObject(&quot;LoginForm&quot;).WinFormsObject(&quot;button1&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43094.4278666667"/>
+			<Prp name="id" type="I" value="2"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 8">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="8"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage11_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="634"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Discipline_Combo"/>
+					<Prp name="line #" type="I" value="8"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="78"/>
+					<Prp name="datetime" type="D" value="43094.1362777778"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage11.png"/>
+					<Prp name="object bottom" type="I" value="99"/>
+					<Prp name="object left" type="I" value="238"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="original">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-76"/>
+					<Prp name="object right" type="I" value="634"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Discipline_Combo"/>
+					<Prp name="line #" type="I" value="8"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-76"/>
+					<Prp name="object top" type="I" value="78"/>
+					<Prp name="datetime" type="D" value="43094.1332407407"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="tcvi16856578356036.png"/>
+					<Prp name="object bottom" type="I" value="99"/>
+					<Prp name="object left" type="I" value="238"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+			</Node>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="line no" type="I" value="8"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.Studyhood.PlanForm.Discipline_Combo&#xA;(Sys.Process(&quot;Studyhood&quot;).WinFormsObject(&quot;PlanForm&quot;).WinFormsObject(&quot;Discipline_Combo&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43094.4279476389"/>
+			<Prp name="id" type="I" value="8"/>
+			<Prp name="message" type="S" value="The combo box item 'Сети и телекоммуникации' was selected."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 19">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="19"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage28_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="634"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Discipline_Combo"/>
+					<Prp name="line #" type="I" value="19"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="78"/>
+					<Prp name="datetime" type="D" value="43094.1364157523"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage28.png"/>
+					<Prp name="object bottom" type="I" value="99"/>
+					<Prp name="object left" type="I" value="238"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="original">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-76"/>
+					<Prp name="object right" type="I" value="634"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Discipline_Combo"/>
+					<Prp name="line #" type="I" value="19"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-76"/>
+					<Prp name="object top" type="I" value="78"/>
+					<Prp name="datetime" type="D" value="43094.1338425926"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="tcvi16891265356073.png"/>
+					<Prp name="object bottom" type="I" value="99"/>
+					<Prp name="object left" type="I" value="238"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+			</Node>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="line no" type="I" value="19"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.Studyhood.PlanForm.Discipline_Combo&#xA;(Sys.Process(&quot;Studyhood&quot;).WinFormsObject(&quot;PlanForm&quot;).WinFormsObject(&quot;Discipline_Combo&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43094.4280856944"/>
+			<Prp name="id" type="I" value="19"/>
+			<Prp name="message" type="S" value="The combo box item 'Русский язык' was selected."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 22">
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="line no" type="I" value="22"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="500"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43094.4281460069"/>
+			<Prp name="id" type="I" value="22"/>
+			<Prp name="message" type="S" value="The table checkpoint &quot;Plan_Table4&quot; passed."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 6">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="6"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage8_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="134"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Semester_Combo"/>
+					<Prp name="line #" type="I" value="6"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="78"/>
+					<Prp name="datetime" type="D" value="43094.1362426389"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage8.png"/>
+					<Prp name="object bottom" type="I" value="99"/>
+					<Prp name="object left" type="I" value="76"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="original">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-76"/>
+					<Prp name="object right" type="I" value="134"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Semester_Combo"/>
+					<Prp name="line #" type="I" value="6"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-76"/>
+					<Prp name="object top" type="I" value="78"/>
+					<Prp name="datetime" type="D" value="43094.1331712963"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="tcvi16852578356029.png"/>
+					<Prp name="object bottom" type="I" value="99"/>
+					<Prp name="object left" type="I" value="76"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+			</Node>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="line no" type="I" value="6"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.Studyhood.PlanForm.Semester_Combo&#xA;(Sys.Process(&quot;Studyhood&quot;).WinFormsObject(&quot;PlanForm&quot;).WinFormsObject(&quot;Semester_Combo&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43094.4279122338"/>
+			<Prp name="id" type="I" value="6"/>
+			<Prp name="message" type="S" value="The combo box item '2' was selected."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 17">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="17"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage24_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="148"/>
+					<Prp name="object right" type="I" value="634"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Plan_Table"/>
+					<Prp name="line #" type="I" value="17"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="347"/>
+					<Prp name="object top" type="I" value="134"/>
+					<Prp name="datetime" type="D" value="43094.136394294"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage24.png"/>
+					<Prp name="object bottom" type="I" value="422"/>
+					<Prp name="object left" type="I" value="16"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="original">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="148"/>
+					<Prp name="object right" type="I" value="634"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Plan_Table"/>
+					<Prp name="line #" type="I" value="17"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="347"/>
+					<Prp name="object top" type="I" value="134"/>
+					<Prp name="datetime" type="D" value="43094.133599537"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="tcvi16877625356063.png"/>
+					<Prp name="object bottom" type="I" value="422"/>
+					<Prp name="object left" type="I" value="16"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+			</Node>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="line no" type="I" value="17"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="A click at point (189, 13) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.Studyhood.PlanForm.Plan_Table&#xA;(Sys.Process(&quot;Studyhood&quot;).WinFormsObject(&quot;PlanForm&quot;).WinFormsObject(&quot;Plan_Table&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43094.4280677546"/>
+			<Prp name="id" type="I" value="17"/>
+			<Prp name="message" type="S" value="The grid column header 'Специальность' was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 24">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="24"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage33_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="208"/>
+					<Prp name="object right" type="I" value="634"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Plan_Table"/>
+					<Prp name="line #" type="I" value="24"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="268"/>
+					<Prp name="object top" type="I" value="134"/>
+					<Prp name="datetime" type="D" value="43094.1364867014"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage33.png"/>
+					<Prp name="object bottom" type="I" value="422"/>
+					<Prp name="object left" type="I" value="16"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="original">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="207"/>
+					<Prp name="object right" type="I" value="634"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Plan_Table"/>
+					<Prp name="line #" type="I" value="24"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="273"/>
+					<Prp name="object top" type="I" value="134"/>
+					<Prp name="datetime" type="D" value="43094.1348032407"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="tcvi16946671356081.png"/>
+					<Prp name="object bottom" type="I" value="422"/>
+					<Prp name="object left" type="I" value="16"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+			</Node>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="line no" type="I" value="24"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="A click with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.Studyhood.PlanForm.Plan_Table&#xA;(Sys.Process(&quot;Studyhood&quot;).WinFormsObject(&quot;PlanForm&quot;).WinFormsObject(&quot;Plan_Table&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43094.428156088"/>
+			<Prp name="id" type="I" value="24"/>
+			<Prp name="message" type="S" value="The grid cell (2, 'Специальность') was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 25">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="25"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage34_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="116"/>
+					<Prp name="object right" type="I" value="172"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Remove_Btn"/>
+					<Prp name="line #" type="I" value="25"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="134"/>
+					<Prp name="object top" type="I" value="105"/>
+					<Prp name="datetime" type="D" value="43094.1364924306"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage34.png"/>
+					<Prp name="object bottom" type="I" value="128"/>
+					<Prp name="object left" type="I" value="97"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="original">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="109"/>
+					<Prp name="object right" type="I" value="172"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Remove_Btn"/>
+					<Prp name="line #" type="I" value="25"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="151"/>
+					<Prp name="object top" type="I" value="105"/>
+					<Prp name="datetime" type="D" value="43094.1348148148"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="tcvi16947687356082.png"/>
+					<Prp name="object bottom" type="I" value="128"/>
+					<Prp name="object left" type="I" value="97"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+			</Node>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="line no" type="I" value="25"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.Studyhood.PlanForm.Remove_Btn&#xA;(Sys.Process(&quot;Studyhood&quot;).WinFormsObject(&quot;PlanForm&quot;).WinFormsObject(&quot;Remove_Btn&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43094.4281639352"/>
+			<Prp name="id" type="I" value="25"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 4">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value=""/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="634"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Speciality_Combo"/>
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="51"/>
+					<Prp name="datetime" type="D" value="43094.1362260764"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage4.png"/>
+					<Prp name="object bottom" type="I" value="72"/>
+					<Prp name="object left" type="I" value="16"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="original">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-76"/>
+					<Prp name="object right" type="I" value="634"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Speciality_Combo"/>
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-76"/>
+					<Prp name="object top" type="I" value="51"/>
+					<Prp name="datetime" type="D" value="43094.1330787037"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="tcvi16847484356016.png"/>
+					<Prp name="object bottom" type="I" value="72"/>
+					<Prp name="object left" type="I" value="16"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+			</Node>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="line no" type="I" value="4"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.Studyhood.PlanForm.Speciality_Combo&#xA;(Sys.Process(&quot;Studyhood&quot;).WinFormsObject(&quot;PlanForm&quot;).WinFormsObject(&quot;Speciality_Combo&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43094.4278959954"/>
+			<Prp name="id" type="I" value="4"/>
+			<Prp name="message" type="S" value="The combo box item 'Информационная безопасность (10.03.01 – очная, бакалавриат, аккредитовано)' was selected."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 15">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="15"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage22_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="116"/>
+					<Prp name="object right" type="I" value="91"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Add_Btn"/>
+					<Prp name="line #" type="I" value="15"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="53"/>
+					<Prp name="object top" type="I" value="105"/>
+					<Prp name="datetime" type="D" value="43094.1363633102"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage22.png"/>
+					<Prp name="object bottom" type="I" value="128"/>
+					<Prp name="object left" type="I" value="16"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="original">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="120"/>
+					<Prp name="object right" type="I" value="91"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Add_Btn"/>
+					<Prp name="line #" type="I" value="15"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="34"/>
+					<Prp name="object top" type="I" value="105"/>
+					<Prp name="datetime" type="D" value="43094.1334375"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="tcvi16868375356060.png"/>
+					<Prp name="object bottom" type="I" value="128"/>
+					<Prp name="object left" type="I" value="16"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+			</Node>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="line no" type="I" value="15"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.Studyhood.PlanForm.Add_Btn&#xA;(Sys.Process(&quot;Studyhood&quot;).WinFormsObject(&quot;PlanForm&quot;).WinFormsObject(&quot;Add_Btn&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43094.4280336806"/>
+			<Prp name="id" type="I" value="15"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 13">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="13"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage19_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="634"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Speciality_Combo"/>
+					<Prp name="line #" type="I" value="13"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="51"/>
+					<Prp name="datetime" type="D" value="43094.1363486111"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage19.png"/>
+					<Prp name="object bottom" type="I" value="72"/>
+					<Prp name="object left" type="I" value="16"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="original">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-76"/>
+					<Prp name="object right" type="I" value="634"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Speciality_Combo"/>
+					<Prp name="line #" type="I" value="13"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-76"/>
+					<Prp name="object top" type="I" value="51"/>
+					<Prp name="datetime" type="D" value="43094.1333912037"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="tcvi16865734356053.png"/>
+					<Prp name="object bottom" type="I" value="72"/>
+					<Prp name="object left" type="I" value="16"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+			</Node>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="line no" type="I" value="13"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.Studyhood.PlanForm.Speciality_Combo&#xA;(Sys.Process(&quot;Studyhood&quot;).WinFormsObject(&quot;PlanForm&quot;).WinFormsObject(&quot;Speciality_Combo&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43094.4280185764"/>
+			<Prp name="id" type="I" value="13"/>
+			<Prp name="message" type="S" value="The combo box item 'Информационные системы и технологии (09.03.02 – очная, бакалавриат, аккредитовано)' was selected."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 31">
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="line no" type="I" value="31"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="500"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43094.4282606366"/>
+			<Prp name="id" type="I" value="31"/>
+			<Prp name="message" type="S" value="The table checkpoint &quot;Plan_Table5&quot; passed."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="units">
+			<Prp name="unit 0" type="S" value="{4A8D77CE-A159-4790-AE4C-D1925332701F}"/>
+		</Node>
+		<Node name="message 1">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage0_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="49"/>
+					<Prp name="object right" type="I" value="643"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.MainPage.Login_Btn"/>
+					<Prp name="line #" type="I" value="1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="605"/>
+					<Prp name="object top" type="I" value="38"/>
+					<Prp name="datetime" type="D" value="43094.1361853472"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage0.png"/>
+					<Prp name="object bottom" type="I" value="61"/>
+					<Prp name="object left" type="I" value="568"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="original">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="49"/>
+					<Prp name="object right" type="I" value="643"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.MainPage.Login_Btn"/>
+					<Prp name="line #" type="I" value="1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="592"/>
+					<Prp name="object top" type="I" value="38"/>
+					<Prp name="datetime" type="D" value="43094.1329282407"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="tcvi1683881235604.png"/>
+					<Prp name="object bottom" type="I" value="61"/>
+					<Prp name="object left" type="I" value="568"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+			</Node>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="line no" type="I" value="1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.Studyhood.MainPage.Login_Btn&#xA;(Sys.Process(&quot;Studyhood&quot;).WinFormsObject(&quot;MainPage&quot;).WinFormsObject(&quot;Login_Btn&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43094.4278544907"/>
+			<Prp name="id" type="I" value="1"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 11">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="11"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage16_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="634"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Discipline_Combo"/>
+					<Prp name="line #" type="I" value="11"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="78"/>
+					<Prp name="datetime" type="D" value="43094.1363188079"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage16.png"/>
+					<Prp name="object bottom" type="I" value="99"/>
+					<Prp name="object left" type="I" value="238"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="original">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-76"/>
+					<Prp name="object right" type="I" value="634"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Discipline_Combo"/>
+					<Prp name="line #" type="I" value="11"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-76"/>
+					<Prp name="object top" type="I" value="78"/>
+					<Prp name="datetime" type="D" value="43094.1333449074"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="tcvi16862796356047.png"/>
+					<Prp name="object bottom" type="I" value="99"/>
+					<Prp name="object left" type="I" value="238"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+			</Node>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="line no" type="I" value="11"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.Studyhood.PlanForm.Discipline_Combo&#xA;(Sys.Process(&quot;Studyhood&quot;).WinFormsObject(&quot;PlanForm&quot;).WinFormsObject(&quot;Discipline_Combo&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43094.4280023958"/>
+			<Prp name="id" type="I" value="11"/>
+			<Prp name="message" type="S" value="The combo box item 'Экономика' was selected."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 29">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="29"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value=""/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="211"/>
+					<Prp name="object right" type="I" value="529"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.ActionsListForm.groupBox4.ProgramMgr_EditPlan_Btn"/>
+					<Prp name="line #" type="I" value="29"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="450"/>
+					<Prp name="object top" type="I" value="200"/>
+					<Prp name="datetime" type="D" value="43094.1365397685"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage38.png"/>
+					<Prp name="object bottom" type="I" value="223"/>
+					<Prp name="object left" type="I" value="372"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="original">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="215"/>
+					<Prp name="object right" type="I" value="529"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.ActionsListForm.groupBox4.ProgramMgr_EditPlan_Btn"/>
+					<Prp name="line #" type="I" value="29"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="424"/>
+					<Prp name="object top" type="I" value="200"/>
+					<Prp name="datetime" type="D" value="43094.1349074074"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="tcvi16953015356087.png"/>
+					<Prp name="object bottom" type="I" value="223"/>
+					<Prp name="object left" type="I" value="372"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+			</Node>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="line no" type="I" value="29"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.Studyhood.ActionsListForm.groupBox4.ProgramMgr_EditPlan_Btn&#xA;(Sys.Process(&quot;Studyhood&quot;).WinFormsObject(&quot;ActionsListForm&quot;).WinFormsObject(&quot;groupBox4&quot;).WinFormsObject(&quot;ProgramMgr_EditPlan_Btn&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43094.4282111806"/>
+			<Prp name="id" type="I" value="29"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 9">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="9"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage13_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="134"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Semester_Combo"/>
+					<Prp name="line #" type="I" value="9"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="78"/>
+					<Prp name="datetime" type="D" value="43094.1362875347"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage13.png"/>
+					<Prp name="object bottom" type="I" value="99"/>
+					<Prp name="object left" type="I" value="76"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="original">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-76"/>
+					<Prp name="object right" type="I" value="134"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Semester_Combo"/>
+					<Prp name="line #" type="I" value="9"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-76"/>
+					<Prp name="object top" type="I" value="78"/>
+					<Prp name="datetime" type="D" value="43094.1332638889"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="tcvi16858250356041.png"/>
+					<Prp name="object bottom" type="I" value="99"/>
+					<Prp name="object left" type="I" value="76"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+			</Node>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="line no" type="I" value="9"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.Studyhood.PlanForm.Semester_Combo&#xA;(Sys.Process(&quot;Studyhood&quot;).WinFormsObject(&quot;PlanForm&quot;).WinFormsObject(&quot;Semester_Combo&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43094.4279600463"/>
+			<Prp name="id" type="I" value="9"/>
+			<Prp name="message" type="S" value="The combo box item '3' was selected."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 7">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage9_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="116"/>
+					<Prp name="object right" type="I" value="91"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Add_Btn"/>
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="53"/>
+					<Prp name="object top" type="I" value="105"/>
+					<Prp name="datetime" type="D" value="43094.1362603704"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage9.png"/>
+					<Prp name="object bottom" type="I" value="128"/>
+					<Prp name="object left" type="I" value="16"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="original">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="118"/>
+					<Prp name="object right" type="I" value="91"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Add_Btn"/>
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="48"/>
+					<Prp name="object top" type="I" value="105"/>
+					<Prp name="datetime" type="D" value="43094.1331712963"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="tcvi16853031356030.png"/>
+					<Prp name="object bottom" type="I" value="128"/>
+					<Prp name="object left" type="I" value="16"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+			</Node>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="line no" type="I" value="7"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.Studyhood.PlanForm.Add_Btn&#xA;(Sys.Process(&quot;Studyhood&quot;).WinFormsObject(&quot;PlanForm&quot;).WinFormsObject(&quot;Add_Btn&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43094.4279346181"/>
+			<Prp name="id" type="I" value="7"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 20">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="20"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage30_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="134"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Semester_Combo"/>
+					<Prp name="line #" type="I" value="20"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="78"/>
+					<Prp name="datetime" type="D" value="43094.1364245833"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage30.png"/>
+					<Prp name="object bottom" type="I" value="99"/>
+					<Prp name="object left" type="I" value="76"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="original">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-76"/>
+					<Prp name="object right" type="I" value="134"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Semester_Combo"/>
+					<Prp name="line #" type="I" value="20"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-76"/>
+					<Prp name="object top" type="I" value="78"/>
+					<Prp name="datetime" type="D" value="43094.1338888889"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="tcvi16894250356078.png"/>
+					<Prp name="object bottom" type="I" value="99"/>
+					<Prp name="object left" type="I" value="76"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+			</Node>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="line no" type="I" value="20"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.Studyhood.PlanForm.Semester_Combo&#xA;(Sys.Process(&quot;Studyhood&quot;).WinFormsObject(&quot;PlanForm&quot;).WinFormsObject(&quot;Semester_Combo&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43094.4280947106"/>
+			<Prp name="id" type="I" value="20"/>
+			<Prp name="message" type="S" value="The combo box item '2' was selected."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 18">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="18"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage26_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="634"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Speciality_Combo"/>
+					<Prp name="line #" type="I" value="18"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="51"/>
+					<Prp name="datetime" type="D" value="43094.1364069213"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage26.png"/>
+					<Prp name="object bottom" type="I" value="72"/>
+					<Prp name="object left" type="I" value="16"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+				<Node name="original">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-76"/>
+					<Prp name="object right" type="I" value="634"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object name" type="S" value="Aliases.Studyhood.PlanForm.Speciality_Combo"/>
+					<Prp name="line #" type="I" value="18"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-76"/>
+					<Prp name="object top" type="I" value="51"/>
+					<Prp name="datetime" type="D" value="43094.1338078704"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="tcvi16889562356068.png"/>
+					<Prp name="object bottom" type="I" value="72"/>
+					<Prp name="object left" type="I" value="16"/>
+					<Prp name="kind" type="I" value="0"/>
+				</Node>
+			</Node>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="line no" type="I" value="18"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.Studyhood.PlanForm.Speciality_Combo&#xA;(Sys.Process(&quot;Studyhood&quot;).WinFormsObject(&quot;PlanForm&quot;).WinFormsObject(&quot;Speciality_Combo&quot;))"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43094.4280769213"/>
+			<Prp name="id" type="I" value="18"/>
+			<Prp name="message" type="S" value="The combo box item 'Информатика и вычислительная техника (09.03.01 – очная, бакалавриат, аккредитовано)' was selected."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Prp name="status" type="I" value="0"/>
+	</Node>
+</Nodes>
